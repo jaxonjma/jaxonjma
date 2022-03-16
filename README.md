@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on something special
 - 🌱 I’m currently learning about AWS
-- 👯 I’m looking to collaborate on ...
 - 💬 Ask me about Java, Spring, Testing, CI, Good practices and Colombia ☀️
 - 📫 How to reach me: jaxonma@gmail.com
 - 😄 Pronouns: Perrini
