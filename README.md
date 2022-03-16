@@ -1,6 +1,8 @@
-### Welcome to my profile 👋
+### Welcome 👋
 
-![160-1606890_java-dev](https://user-images.githubusercontent.com/16148737/158524761-06750753-ce52-44a0-bfa9-c3d132f6a486.jpg) 
+<img src="https://user-images.githubusercontent.com/16148737/158524761-06750753-ce52-44a0-bfa9-c3d132f6a486.jpg" width="900" align="center">
+
+#### About me 👽🦄✨
 
 - 🔭 I’m currently working on something special
 - 🌱 I’m currently learning about AWS
