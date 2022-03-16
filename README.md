@@ -4,7 +4,7 @@
 
 #### About me 👽🦄✨
 
-- 🔭 I’m currently working on something special
+- 🔭 I’m currently working on something special (Using Twilio and more 😎)
 - 🌱 I’m currently learning about AWS
 - 💬 Ask me about Java, Spring, Testing, CI, Good practices and Colombia ☀️
 - 📫 How to reach me: jaxonma@gmail.com
