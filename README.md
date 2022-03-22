@@ -15,12 +15,11 @@ Hi i'm Jaxon, developer with more than 6 years of experience in web projects mai
 
 ##### I have been working mainly with:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,angular,react,jquery)]()
-[![My Skills](https://skillicons.dev/icons?i=java,spring,scala,kubernetes,jenkins,graphql,firebase,mysql,mongodb,postgres)]()
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,angular,react,jquery,java,spring,scala,kubernetes,jenkins,graphql,firebase,mysql,mongodb,postgres,docker)]()
 
 I keep learning about:
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,kubernetes,py,nodejs)]()
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,kubernetes,py,nodejs,vue)]()
 
 
 #### ¿Do u want to talk about programming? Let's keep in touch:
