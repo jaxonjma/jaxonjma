@@ -9,7 +9,6 @@ Hi i'm Jaxon, developer with more than 6 years of experience in web projects mai
 - 🔭 I’m currently working on something special (Using Twilio and more 😎)
 - 🌱 I’m currently learning about cloud tecnologies
 - 💬 Ask me about Java, Spring, Testing, CI, Good practices and Colombia ☀️
-- 📫 How to reach me: jaxonma@gmail.com
 - 😄 Pronouns: Perrini
 - ⚡ Fun fact: Dance, bikes and new places 🌏 
 
@@ -21,11 +20,16 @@ I keep learning about:
 
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,kubernetes,py,nodejs,vue)](https://github.com/jaxonjma)
 
-#### ¿Do u want to talk about programming or something else? Let's keep in touch:
+¿Do u want to talk about programming or something else? Let's keep in touch:
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaxon-julian-munoz-avendano/)
 [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/5870012/jaxonjma)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jaxon.julian/)
 
+&emsp;
+
+#### My current stats (I'm improving this things while I build and break things): 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaxonjma&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Jaxon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaxonjma&show_icons=true&theme=radical)
