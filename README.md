@@ -28,3 +28,4 @@ I keep learning about:
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jaxon.julian/)
 
 
+![Jaxon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaxonjma&show_icons=true&theme=radical)
