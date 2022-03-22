@@ -22,7 +22,7 @@ I keep learning about:
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,kubernetes,py,nodejs,vue)]()
 
 
-#### ¿Do u want to talk about programming? Let's keep in touch:
+#### ¿Do u want to talk about programming or something else? Let's keep in touch:
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaxon-julian-munoz-avendano/)
 [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/5870012/jaxonjma)
