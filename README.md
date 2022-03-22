@@ -1,6 +1,8 @@
 ### Welcome 👋
 
-<img src="https://user-images.githubusercontent.com/16148737/158524761-06750753-ce52-44a0-bfa9-c3d132f6a486.jpg" width="900" align="center">
+<p align="center">
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="We can" />
+</p>
 
 #### About me 👽🦄✨
 
@@ -33,3 +35,5 @@ I keep learning about:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaxonjma&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Jaxon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaxonjma&show_icons=true&theme=radical)
+
+
