@@ -30,7 +30,7 @@ I keep learning about:
 
 &emsp;
 
-#### My current stats (I'm improving this things while I build and break things): 
+#### My current stats (I'm improving this things while I build and break code): 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaxonjma&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
