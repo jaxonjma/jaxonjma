@@ -12,7 +12,7 @@ Hi i'm Jaxon, developer with more than 7 years of experience in web projects mai
 - 🌱 I’m currently learning about cloud tecnologies
 - 💬 Ask me about Java, Spring, Testing, CI, Good practices and Colombia ☀️
 - 😄 Pronouns: Perrini
-- ⚡ Fun fact: Dance, bikes and new places 🌏 
+- ⚡ Fun fact: Dance, visit new places, bikes and new places 🌏 
 
 ##### I have been working mainly with:
 
