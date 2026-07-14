@@ -67,8 +67,12 @@ Software engineer with **10+ years** of experience building web products with **
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jaxonjma&show_icons=true&theme=radical&hide_border=true" alt="Jaxon's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaxonjma&layout=compact&theme=radical&hide_border=true" alt="Top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaxonjma&theme=radical" alt="Jaxon's GitHub stats"/>
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaxonjma&theme=radical" alt="Repos per language"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaxonjma&theme=radical" alt="Most commit language"/>
 </p>
 
 <p align="center">
