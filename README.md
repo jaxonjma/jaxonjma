@@ -53,17 +53,6 @@ Software engineer with **10+ years** of experience building web products with **
 
 ---
 
-### 💼 Experience highlights
-
-| Role | Company | Focus |
-|------|---------|-------|
-| Java / AI Product Engineer *(Founder)* | Freelance | Multi-tenant RAG &amp; LLM agents, WhatsApp Cloud API, FastAPI, Supabase (RLS) |
-| Senior Software Engineer | EPAM | Java/Spring services, mortgage &amp; property module, Angular, AWS, event-driven architecture |
-| Senior Java Developer | Unosquare | WebRTC telemedicine with Twilio (up to 50 participants), healthcare microservices |
-| Software Architect / Tech Lead | Makers Solutions | System design, batch processing, PR review, team leadership |
-
----
-
 ### 📊 GitHub stats
 
 <p align="center">
