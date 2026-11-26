@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="672" viewBox="0 0 1200 672" role="img" aria-label="Every product, layer by layer: product and UX, AI agents, application code, testing, security, DevOps, cloud">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f7f8fa"/><stop offset="1" stop-color="#eceef2"/></linearGradient>
+<style>.sans{font-family:'Inter','Segoe UI',-apple-system,Helvetica,Arial,sans-serif}
+.mono{font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace}
+.lab{animation:lab 8s ease-in-out infinite}
+@keyframes lab{0%,16%{opacity:.15}34%,78%{opacity:1}94%,100%{opacity:.15}}
+.L0{animation:k0 8s cubic-bezier(.65,0,.35,1) infinite}@keyframes k0{0%,12%{transform:translateY(300px)}34%,80%{transform:translateY(0)}96%,100%{transform:translateY(300px)}}
+.L1{animation:k1 8s cubic-bezier(.65,0,.35,1) infinite}@keyframes k1{0%,12%{transform:translateY(250px)}34%,80%{transform:translateY(0)}96%,100%{transform:translateY(250px)}}
+.L2{animation:k2 8s cubic-bezier(.65,0,.35,1) infinite}@keyframes k2{0%,12%{transform:translateY(200px)}34%,80%{transform:translateY(0)}96%,100%{transform:translateY(200px)}}
+.L3{animation:k3 8s cubic-bezier(.65,0,.35,1) infinite}@keyframes k3{0%,12%{transform:translateY(150px)}34%,80%{transform:translateY(0)}96%,100%{transform:translateY(150px)}}
+.L4{animation:k4 8s cubic-bezier(.65,0,.35,1) infinite}@keyframes k4{0%,12%{transform:translateY(100px)}34%,80%{transform:translateY(0)}96%,100%{transform:translateY(100px)}}
+.L5{animation:k5 8s cubic-bezier(.65,0,.35,1) infinite}@keyframes k5{0%,12%{transform:translateY(50px)}34%,80%{transform:translateY(0)}96%,100%{transform:translateY(50px)}}
+.L6{animation:k6 8s cubic-bezier(.65,0,.35,1) infinite}@keyframes k6{0%,12%{transform:translateY(0px)}34%,80%{transform:translateY(0)}96%,100%{transform:translateY(0px)}}</style></defs>
+<rect width="1200" height="672" rx="20" fill="url(#bg)"/>
+<text class="mono" x="64" y="70" font-size="13" letter-spacing=".22em" fill="#0b8fd6">NOT VIBE CODING · ENGINEERING</text>
+<text class="sans" x="64" y="110" font-size="32" font-weight="800" fill="#16181c" letter-spacing="-.5">Every product, layer by layer.</text>
+<g class="L6">
+<polygon points="110,568 330,628 330,640 110,580" fill="#dfe3e9"/>
+<polygon points="330,628 550,568 550,580 330,640" fill="#cfd5dd"/>
+<polygon points="330,508 550,568 330,628 110,568" fill="#ffffff" stroke="#c9ced6" stroke-opacity=".9" stroke-width="1.5"/>
+<polygon points="330,528 510,568 330,608 150,568" fill="none" stroke="#c9ced6" stroke-opacity=".25" stroke-dasharray="4 6"/>
+<circle cx="550" cy="568" r="3.5" fill="#c9ced6"/>
+</g>
+<g class="L5">
+<polygon points="110,506 330,566 330,578 110,518" fill="#dfe3e9"/>
+<polygon points="330,566 550,506 550,518 330,578" fill="#cfd5dd"/>
+<polygon points="330,446 550,506 330,566 110,506" fill="#ffffff" stroke="#9aa3af" stroke-opacity=".9" stroke-width="1.5"/>
+<polygon points="330,466 510,506 330,546 150,506" fill="none" stroke="#9aa3af" stroke-opacity=".25" stroke-dasharray="4 6"/>
+<circle cx="550" cy="506" r="3.5" fill="#9aa3af"/>
+</g>
+<g class="L4">
+<polygon points="110,444 330,504 330,516 110,456" fill="#dfe3e9"/>
+<polygon points="330,504 550,444 550,456 330,516" fill="#cfd5dd"/>
+<polygon points="330,384 550,444 330,504 110,444" fill="#ffffff" stroke="#9aa3af" stroke-opacity=".9" stroke-width="1.5"/>
+<polygon points="330,404 510,444 330,484 150,444" fill="none" stroke="#9aa3af" stroke-opacity=".25" stroke-dasharray="4 6"/>
+<circle cx="550" cy="444" r="3.5" fill="#9aa3af"/>
+</g>
+<g class="L3">
+<polygon points="110,382 330,442 330,454 110,394" fill="#dfe3e9"/>
+<polygon points="330,442 550,382 550,394 330,454" fill="#cfd5dd"/>
+<polygon points="330,322 550,382 330,442 110,382" fill="#ffffff" stroke="#9aa3af" stroke-opacity=".9" stroke-width="1.5"/>
+<polygon points="330,342 510,382 330,422 150,382" fill="none" stroke="#9aa3af" stroke-opacity=".25" stroke-dasharray="4 6"/>
+<circle cx="550" cy="382" r="3.5" fill="#9aa3af"/>
+</g>
+<g class="L2">
+<polygon points="110,320 330,380 330,392 110,332" fill="#dfe3e9"/>
+<polygon points="330,380 550,320 550,332 330,392" fill="#cfd5dd"/>
+<polygon points="330,260 550,320 330,380 110,320" fill="#ffffff" stroke="#3d86ff" stroke-opacity=".9" stroke-width="1.5"/>
+<polygon points="330,280 510,320 330,360 150,320" fill="none" stroke="#3d86ff" stroke-opacity=".25" stroke-dasharray="4 6"/>
+<circle cx="550" cy="320" r="3.5" fill="#3d86ff"/>
+</g>
+<g class="L1">
+<polygon points="110,258 330,318 330,330 110,270" fill="#dfe3e9"/>
+<polygon points="330,318 550,258 550,270 330,330" fill="#cfd5dd"/>
+<polygon points="330,198 550,258 330,318 110,258" fill="#ffffff" stroke="#5aa8ff" stroke-opacity=".9" stroke-width="1.5"/>
+<polygon points="330,218 510,258 330,298 150,258" fill="none" stroke="#5aa8ff" stroke-opacity=".25" stroke-dasharray="4 6"/>
+<circle cx="550" cy="258" r="3.5" fill="#5aa8ff"/>
+</g>
+<g class="L0">
+<polygon points="110,196 330,256 330,268 110,208" fill="#dfe3e9"/>
+<polygon points="330,256 550,196 550,208 330,268" fill="#cfd5dd"/>
+<polygon points="330,136 550,196 330,256 110,196" fill="#ffffff" stroke="#7fd6ff" stroke-opacity=".9" stroke-width="1.5"/>
+<polygon points="330,156 510,196 330,236 150,196" fill="none" stroke="#7fd6ff" stroke-opacity=".25" stroke-dasharray="4 6"/>
+<circle cx="550" cy="196" r="3.5" fill="#7fd6ff"/>
+</g>
+<g class="lab">
+<line x1="560" y1="196" x2="622" y2="196" stroke="#0f172a" stroke-opacity=".16" stroke-dasharray="2 4"/>
+<text class="mono" x="640" y="192" font-size="12" fill="#7fd6ff" letter-spacing=".1em">01</text>
+<text class="sans" x="674" y="193" font-size="19" font-weight="700" fill="#1f2329">Product &amp; UX</text>
+<text class="mono" x="674" y="213" font-size="12.5" fill="#6b7280">discovery · design · delivery</text>
+</g>
+<g class="lab">
+<line x1="560" y1="258" x2="622" y2="258" stroke="#0f172a" stroke-opacity=".16" stroke-dasharray="2 4"/>
+<text class="mono" x="640" y="254" font-size="12" fill="#5aa8ff" letter-spacing=".1em">02</text>
+<text class="sans" x="674" y="255" font-size="19" font-weight="700" fill="#1f2329">AI agents &amp; automation</text>
+<text class="mono" x="674" y="275" font-size="12.5" fill="#6b7280">RAG · tool calling · workflows</text>
+</g>
+<g class="lab">
+<line x1="560" y1="320" x2="622" y2="320" stroke="#0f172a" stroke-opacity=".16" stroke-dasharray="2 4"/>
+<text class="mono" x="640" y="316" font-size="12" fill="#3d86ff" letter-spacing=".1em">03</text>
+<text class="sans" x="674" y="317" font-size="19" font-weight="700" fill="#1f2329">Application code</text>
+<text class="mono" x="674" y="337" font-size="12.5" fill="#6b7280">Java/Spring · Python/FastAPI · TypeScript</text>
+</g>
+<g class="lab">
+<line x1="560" y1="382" x2="622" y2="382" stroke="#0f172a" stroke-opacity=".16" stroke-dasharray="2 4"/>
+<text class="mono" x="640" y="378" font-size="12" fill="#9aa3af" letter-spacing=".1em">04</text>
+<text class="sans" x="674" y="379" font-size="19" font-weight="700" fill="#1f2329">Testing &amp; QA</text>
+<text class="mono" x="674" y="399" font-size="12.5" fill="#6b7280">unit · integration · contract · e2e</text>
+</g>
+<g class="lab">
+<line x1="560" y1="444" x2="622" y2="444" stroke="#0f172a" stroke-opacity=".16" stroke-dasharray="2 4"/>
+<text class="mono" x="640" y="440" font-size="12" fill="#9aa3af" letter-spacing=".1em">05</text>
+<text class="sans" x="674" y="441" font-size="19" font-weight="700" fill="#1f2329">Security</text>
+<text class="mono" x="674" y="461" font-size="12.5" fill="#6b7280">auth · encryption · least privilege</text>
+</g>
+<g class="lab">
+<line x1="560" y1="506" x2="622" y2="506" stroke="#0f172a" stroke-opacity=".16" stroke-dasharray="2 4"/>
+<text class="mono" x="640" y="502" font-size="12" fill="#9aa3af" letter-spacing=".1em">06</text>
+<text class="sans" x="674" y="503" font-size="19" font-weight="700" fill="#1f2329">DevOps &amp; CI/CD</text>
+<text class="mono" x="674" y="523" font-size="12.5" fill="#6b7280">pipelines · containers · observability</text>
+</g>
+<g class="lab">
+<line x1="560" y1="568" x2="622" y2="568" stroke="#0f172a" stroke-opacity=".16" stroke-dasharray="2 4"/>
+<text class="mono" x="640" y="564" font-size="12" fill="#c9ced6" letter-spacing=".1em">07</text>
+<text class="sans" x="674" y="565" font-size="19" font-weight="700" fill="#1f2329">Cloud infrastructure</text>
+<text class="mono" x="674" y="585" font-size="12.5" fill="#6b7280">AWS · Azure · Railway · Supabase</text>
+</g>
+</svg>

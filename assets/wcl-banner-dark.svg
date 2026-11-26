@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="WildCore Labs — Wild at heart, free by design.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1b1d21"/>
+      <stop offset="1" stop-color="#121316"/>
+    </linearGradient>
+    <linearGradient id="wBlue" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4b8bff"/>
+      <stop offset="1" stop-color="#2459e0"/>
+    </linearGradient>
+    <linearGradient id="cSilver" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eef1f5"/>
+      <stop offset=".55" stop-color="#aeb5bf"/>
+      <stop offset="1" stop-color="#e3e7ec"/>
+    </linearGradient>
+    <linearGradient id="ribbon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2f6bff"/>
+      <stop offset="1" stop-color="#7fd6ff"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#ffffff" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="letters" maskUnits="userSpaceOnUse" x="0" y="0" width="1200" height="360"><path d="M86 108 L 122 236 L 158 150 L 194 236 L 230 108" fill="none" stroke="#fff" stroke-width="30" stroke-linejoin="miter" stroke-miterlimit="2.2"/><path d="M352 132 A 62 62 0 1 0 352 212" fill="none" stroke="#fff" stroke-width="30"/></mask>
+    <style>
+      .sans { font-family: 'Inter','Segoe UI',-apple-system,Helvetica,Arial,sans-serif; }
+      .mono { font-family: 'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace; }
+      .claw { stroke: #1a1c20; stroke-width: 7; stroke-linecap: round; fill: none; stroke-dasharray: 360; animation: swipe .55s cubic-bezier(.7,0,.3,1) backwards; }
+      .c1 { animation-delay: .5s } .c2 { animation-delay: .62s } .c3 { animation-delay: .74s }
+      @keyframes swipe { from { stroke-dashoffset: 360 } to { stroke-dashoffset: 0 } }
+      .glint { animation: glint 5s ease-in-out 1.2s infinite; }
+      @keyframes glint { 0% { transform: translateX(-340px) } 35%,100% { transform: translateX(360px) } }
+      .rise { animation: rise 1s cubic-bezier(.2,.7,.2,1) backwards; }
+      .r1 { animation-delay: .3s } .r2 { animation-delay: .55s } .r3 { animation-delay: .8s } .r4 { animation-delay: 1.05s }
+      @keyframes rise { from { opacity: 0; transform: translateY(10px) } to { opacity: 1; transform: none } }
+      .wave1 { animation: drift 14s linear infinite; }
+      .wave2 { animation: drift 22s linear infinite reverse; }
+      @keyframes drift { from { transform: translateX(0) } to { transform: translateX(-600px) } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
+
+  <!-- Calm water -->
+  <g opacity=".9">
+    <path class="wave2" d="M0 312 Q 75 300 150 312 T 300 312 T 450 312 T 600 312 T 750 312 T 900 312 T 1050 312 T 1200 312 T 1350 312 T 1500 312 T 1650 312 T 1800 312 V 360 H 0 Z" fill="#7fd6ff" fill-opacity=".05"/>
+    <path class="wave1" d="M0 322 Q 100 310 200 322 T 400 322 T 600 322 T 800 322 T 1000 322 T 1200 322 T 1400 322 T 1600 322 T 1800 322 V 360 H 0 Z" fill="#2f6bff" fill-opacity=".08"/>
+  </g>
+
+  <!-- WC monogram -->
+  <g>
+    <path d="M86 108 L 122 236 L 158 150 L 194 236 L 230 108" fill="none" stroke="url(#wBlue)" stroke-width="30" stroke-linejoin="miter" stroke-miterlimit="2.2"/>
+    <path d="M352 132 A 62 62 0 1 0 352 212" fill="none" stroke="url(#cSilver)" stroke-width="30"/>
+    <g mask="url(#letters)">
+      <line class="claw c1" x1="64"  y1="140" x2="382" y2="128"/>
+      <line class="claw c2" x1="64"  y1="174" x2="382" y2="162"/>
+      <line class="claw c3" x1="64"  y1="208" x2="382" y2="196"/>
+      <g class="glint"><rect x="100" y="80" width="110" height="190" fill="url(#sheen)" transform="skewX(-18)"/></g>
+    </g>
+  </g>
+
+  <line x1="440" y1="96" x2="440" y2="256" stroke="#ffffff" stroke-opacity=".08"/>
+
+  <!-- Wordmark + slogan -->
+  <g transform="translate(486 0)">
+    <text class="mono rise r1" x="0" y="112" font-size="13" fill="#7fd6ff" letter-spacing=".22em">ENGINEERING STUDIO · MEDELLÍN</text>
+    <text class="sans rise r2" x="0" y="172" font-size="58" font-weight="800" fill="#f3f4f6" letter-spacing="-1.5">WildCore <tspan fill="#aeb5bf" font-weight="300">Labs</tspan></text>
+    <rect class="rise r2" x="2" y="190" width="96" height="4" rx="2" fill="url(#ribbon)"/>
+    <text class="sans rise r3" x="0" y="232" font-size="26" font-style="italic" font-weight="500" fill="#e5e7eb">Wild at heart, free by design.</text>
+    <text class="sans rise r4" x="0" y="262" font-size="15" fill="#8b93a0">Salvajes de corazón, libres por diseño.</text>
+  </g>
+</svg>
