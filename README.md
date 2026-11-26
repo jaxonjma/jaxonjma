@@ -7,119 +7,111 @@
   <a href="https://www.linkedin.com/in/jaxon-julian-munoz-avendano/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:jaxonma@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://stackoverflow.com/users/5870012/jaxonjma"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
-  <img src="https://img.shields.io/badge/Open%20to-remote%20%26%20freelance-2f6bff?style=for-the-badge" alt="Open to remote and freelance"/>
+  <a href="https://jaxonjma.github.io/jaxonjma/"><img src="https://img.shields.io/badge/Stack%20explorer-interactive-2f6bff?style=for-the-badge" alt="Interactive stack explorer"/></a>
   <img src="https://komarev.com/ghpvc/?username=jaxonjma&style=for-the-badge&color=1b1e23&label=visitors" alt="Profile views"/>
 </p>
 
 <p align="center">
-  I build backend systems where correctness is not optional (investment cores, regulated reporting, payments,<br>
-  national-scale event pipelines, telemedicine) and, increasingly, the AI layer on top of them: RAG, LLM agents and automation.
+  Senior software engineer with 10+ years designing distributed systems in <b>Java and Spring</b>: microservices, event-driven architectures with <b>Kafka</b>,<br>
+  large-scale batch processing and cloud services on <b>AWS</b> for fintech, healthcare and real estate. I bring that same engineering discipline to AI:<br>
+  <b>RAG engines, agent workflows and WhatsApp automation</b> running in production for logistics, medical wellness and education.
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/impact-dark.svg">
-  <img alt="10+ years · ~1.5M properties in a Kafka pipeline · 50-participant telemedicine · 4 industries" src="./assets/impact-light.svg" width="100%">
-</picture>
+<p align="center">
+  <a href="#-experience"><b>Experience</b></a> ·
+  <a href="#-ai-in-production"><b>AI in production</b></a> ·
+  <a href="#%EF%B8%8F-stack"><b>Stack</b></a> ·
+  <a href="#-activity"><b>Activity</b></a> ·
+  <a href="#-how-i-work"><b>How I work</b></a> ·
+  <a href="#-education--beyond"><b>Education</b></a>
+</p>
 
 ## 💼 Experience
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/experience-dark.svg">
-  <img alt="Experience: Freelance, EPAM · CoreLogic, Makers Solutions, Unosquare, Apple · FNB Ads" src="./assets/experience-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/freelance-dark.svg">
+  <img alt="Now: independent Senior Software & AI Product Engineer — freight logistics AI dispatch, medical wellness RAG and sales agent, multi-brand ecosystem backend, fintech consulting" src="./assets/freelance-light.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/career-dark.svg">
+  <img alt="Career path: EPAM Systems, Unosquare, Makers Solutions, earlier experience" src="./assets/career-light.svg" width="100%">
 </picture>
 
 <details>
 <summary><b>Plain-text version</b> (searchable, copy-friendly)</summary>
 <br>
 
-**Independent · Freelance**, Software Engineer & AI Engineer *(now)*
-- Designs and builds new Java backend features for a Colombian fintech.
-- Builds multi-tenant RAG engines and LLM agents with FastAPI and Supabase (row-level security).
-- Integrates payment gateways (Stripe, Whop and others): transactions, idempotency, encryption of sensitive data.
-- Connects products to the WhatsApp Cloud API for conversational flows.
+**Independent · Freelance, LatAm clients** · Senior Software & AI Product Engineer *(now)*
+- *Freight logistics:* AI agent that automates freight service assignment, picking drivers by performance score and contacting them over WhatsApp, which removes dispatcher bias. Real-time transport monitoring with GPS, push and WhatsApp status, digital freight completion. Led the design and migration from PHP/Laravel and Angular monoliths to AWS microservices.
+- *Medical wellness:* backend, back-office and client portal on a multi-tenant RAG engine (tenant isolation by API key, citation-grounded answers above a relevance threshold). Multi-turn AI sales agent driven by a state machine, with a playbook mined from voice notes transcribed with Whisper. 6 document templates pre-filled by AI and signed by a licensed professional.
+- *Multi-brand ecosystem:* backend behind 4 products (subscriptions, trading education, travel, investments); legacy projects unified into one platform; shared AI layer with RAG knowledge engine, CRM engine and AI coaching agents.
+- *Fintech consulting:* Java and Spring backend features; Stripe and Whop integrations with idempotent transactions and encryption at rest.
 
-**EPAM · CoreLogic**, Senior Software Engineer
-- Reactive microservices on Kafka segmenting real-estate leads across ~1.5M U.S. properties.
-- Mortgage and property module with Java/Spring and Angular.
-- GraphQL APIs on AWS, event-driven architecture.
+**EPAM Systems** · Senior Software Engineer · Real estate
+- Reactive microservices with Kafka and Spring WebFlux segmenting real-estate leads across ~1.5M U.S. properties.
+- Mortgage management and property history module exposed through REST and GraphQL.
 
-**Makers Solutions**, Tech Lead → Software Architect
-- Investment core for Protección: derivatives valuation and regulatory reporting to the Colombian Financial Superintendence.
-- Bancolombia: defined caching strategies; system design, batch processing, PR review and team leadership.
+**Unosquare** · Senior Java Developer · Healthcare
+- Doctor-patient WebRTC video calls (Twilio) with virtual waiting room, real-time status, up to 50 participants and screen recording.
+- Microservices for reports of patients in cancer treatment.
 
-**Unosquare**, Senior Java Developer
-- WebRTC telemedicine with Twilio, up to 50 participants per session.
-- Healthcare microservices and GraphQL services.
+**Makers Solutions** · Fintech, investments and banking
+- *Software Architect:* investment valuation and accounting closing integrated through MuleSoft Anypoint as iPaaS; caching strategies, GitHub baselines, PR reviews across teams; batch processing for massive accounting files.
+- *Technical Leader:* onboarding, technical hiring, unblocking; owned deployments, hotfixes and production incidents; built massive report generation (fichas técnicas) for investment funds.
+- *Senior Developer Analyst:* microservices for daily valuation and control of investment statements in national and international markets; nightly support for valuation and accounting closings.
 
-**Apple · FNB Ads**
-- Migrations to AWS and related cloud work for the FNB Ads team.
+**Earlier** · Konecta (Technical Leader and Developer Analyst: 200+ robots on AS400, SIIK) · Openlab (Java Developer: laboratory monitoring) · Freelance (Java: inventory and invoicing, MySQL design, legacy migration)
 
 </details>
 
-## 🧠 AI engineering
+## 🧠 AI in production
 
-How I build retrieval-augmented, agentic systems: one codebase, many tenants, behavior driven by configuration.
-
-```mermaid
-flowchart LR
-    subgraph ingest [Ingestion]
-        docs[Documents<br/>and data] --> chunk[Chunk and<br/>embed] --> vs[(Vector store<br/>per tenant)]
-    end
-
-    subgraph runtime [Runtime]
-        user([User or channel]) --> api[FastAPI<br/>gateway]
-        api --> cfg{{Tenant config}}
-        cfg --> agent[LLM agent]
-        agent -- retrieve --> vs
-        agent -- tools --> tools[APIs, payments,<br/>CRM, messaging]
-        agent -- answer --> user
-    end
-
-    api --> db[(Postgres<br/>row-level security)]
-
-    classDef accent fill:#2f6bff,stroke:#7fd6ff,color:#ffffff
-    classDef soft fill:#1b1e23,stroke:#8b93a0,color:#f3f4f6
-    class cfg,agent accent
-    class docs,chunk,vs,user,api,tools,db soft
-    style ingest fill:transparent,stroke:#3d86ff,stroke-dasharray:5 5,color:#5aa8ff
-    style runtime fill:transparent,stroke:#3d86ff,stroke-dasharray:5 5,color:#5aa8ff
-```
-
-<table>
-  <tr>
-    <td width="33%" valign="top"><b>🔎 Retrieval</b><br>RAG pipelines with tenant-isolated knowledge, so each client's data stays theirs.</td>
-    <td width="33%" valign="top"><b>🛠️ Agents</b><br>LLM agents with tool calling over real systems: payments, CRMs, messaging channels.</td>
-    <td width="33%" valign="top"><b>⚙️ Config over code</b><br>New tenants and behaviors through configuration, not forks.</td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/ai-dark.svg">
+  <img alt="AI in production: freight dispatch agent, multi-tenant RAG with citations, state-machine sales agent, human-in-the-loop documents" src="./assets/ai-light.svg" width="100%">
+</picture>
 
 ## 🛠️ Stack
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/orbit-dark.svg">
-  <img alt="Tech constellation: languages, data and streaming, cloud and DevOps, AI engineering" src="./assets/orbit-light.svg" width="100%">
+  <img alt="Tech constellation: languages and frameworks, data and messaging, cloud and DevOps, AI and agents" src="./assets/orbit-light.svg" width="100%">
 </picture>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,ts,react,angular,graphql,postgres,supabase,mongodb,kafka,aws,azure,docker,kubernetes,jenkins,git&perline=9" alt="Stack icons"/>
+  <a href="https://jaxonjma.github.io/jaxonjma/"><b>✨ Explore it interactively →</b></a><br>
+  <sub>Hover any technology to see where it ran in production and what it was combined with.</sub>
 </p>
 
-## 📐 How I work
+<details>
+<summary><b>Full skill list</b></summary>
+<br>
 
-```yaml
-correctness:   idempotent by default, explicit failure modes, tests that describe behavior
-architecture:  design for the second tenant, so the hundredth costs less than the first
-data:          sensitive data encrypted, access scoped (row-level security), nothing leaks across tenants
-leadership:    clear designs, honest PR reviews, teams that can run the system without me
-docs:          if it only lives in my head, it isn't done
-```
+| Area | Skills |
+|---|---|
+| **Backend** | Java, Spring Boot, Spring WebFlux, Spring Batch, Spring Security, Spring Data JPA, Hibernate, Python, FastAPI, Node.js, REST API design, GraphQL, SOAP, async job queues |
+| **Architecture** | Microservices, event-driven architecture, distributed and reactive systems, multi-tenant SaaS, API Gateway, batch processing, caching strategies, idempotency, legacy migration |
+| **Data** | PostgreSQL, Supabase, row-level security, MySQL, Oracle, DynamoDB, MongoDB, Firebase, Redis, Kafka |
+| **AI & agents** | LLM integration, RAG, agentic workflows, multi-agent orchestration, agent state machines, human in the loop, embeddings, pgvector, retrieval pipelines, citation grounding, LLM guardrails, speech to text (Whisper) |
+| **Cloud & DevOps** | AWS (incl. Lambda), Docker, Kubernetes, CI/CD, Jenkins, GitHub, Bitbucket, Railway, Vercel, Linux, shell scripting |
+| **Frontend** | React, Next.js, Angular, AngularJS, TypeScript, JavaScript, TanStack Query, HTML, CSS |
+| **Integrations** | MuleSoft (Anypoint), WhatsApp Cloud API, 360dialog, Twilio, WebRTC, Stripe, Whop |
 
-## 🎓 Learning
-
-- **Diploma in Artificial Intelligence**, Universidad de los Llanos
-- **Master's degree**, starting now
+</details>
 
 ## 📈 Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./generated/languages-dark.svg">
+    <img alt="Most used languages across public repositories" src="./generated/languages-light.svg" width="49%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./generated/stats-dark.svg">
+    <img alt="GitHub activity statistics" src="./generated/stats-light.svg" width="49%">
+  </picture>
+</p>
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-3d.svg" alt="3D contribution calendar" width="100%"/>
@@ -128,6 +120,20 @@ docs:          if it only lives in my head, it isn't done
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaxonjma/jaxonjma/output/snake-dark.svg">
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/jaxonjma/jaxonjma/output/snake.svg" width="100%">
+</picture>
+
+## 📐 How I work
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/ways-dark.svg">
+  <img alt="How I work: technical leadership, review and baselines, correctness where money moves, legacy to modern, AI with guardrails, agile and tested" src="./assets/ways-light.svg" width="100%">
+</picture>
+
+## 🎓 Education & beyond
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/learning-dark.svg">
+  <img alt="Education: Systems Engineer, Diploma in AI (completed), Diploma in Stock Market Operations, Master's in progress. Certifications: AWS Lambda & Serverless, DSA in Java. Beyond code: dance, music, sailing, football, freestyle, family first." src="./assets/learning-light.svg" width="100%">
 </picture>
 
 <picture>

@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Education, certifications and beyond code">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#15171b"/><stop offset="1" stop-color="#0f1013"/></linearGradient>
+<linearGradient id="ribbon" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2f6bff"/><stop offset="1" stop-color="#7fd6ff"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+<style>
+.sans{font-family:'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}
+.mono{font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace}
+.cd{animation:up .8s cubic-bezier(.2,.7,.2,1) backwards}@keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}</style>
+</defs>
+<rect width="1200" height="420" rx="18" fill="url(#bg)"/>
+<g class="cd" style="animation-delay:0.0s">
+<rect x="40" y="40" width="480" height="340" rx="16" fill="#1b1e23" stroke="#2a2e35"/>
+<g transform="translate(66 64) scale(0.8333)" fill="none" stroke="#7fd6ff" stroke-width="1.80" stroke-linecap="round" stroke-linejoin="round"><path d="M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z" />
+  <path d="M22 10v6" />
+  <path d="M6 12.5V16a6 3 0 0 0 12 0v-3.5" /></g>
+<text class="mono" x="96" y="79" font-size="12" fill="#7fd6ff" letter-spacing=".2em">EDUCATION</text>
+</g>
+<g class="cd" style="animation-delay:0.1s">
+<rect x="538" y="40" width="352" height="340" rx="16" fill="#1b1e23" stroke="#2a2e35"/>
+<g transform="translate(564 64) scale(0.8333)" fill="none" stroke="#7fd6ff" stroke-width="1.80" stroke-linecap="round" stroke-linejoin="round"><path d="m15.477 12.89 1.515 8.526a.5.5 0 0 1-.81.47l-3.58-2.687a1 1 0 0 0-1.197 0l-3.586 2.686a.5.5 0 0 1-.81-.469l1.514-8.526" />
+  <circle cx="12" cy="8" r="6" /></g>
+<text class="mono" x="594" y="79" font-size="12" fill="#7fd6ff" letter-spacing=".2em">CERTIFICATIONS</text>
+</g>
+<g class="cd" style="animation-delay:0.2s">
+<rect x="908" y="40" width="252" height="340" rx="16" fill="#1b1e23" stroke="#2a2e35"/>
+<g transform="translate(934 64) scale(0.8333)" fill="none" stroke="#7fd6ff" stroke-width="1.80" stroke-linecap="round" stroke-linejoin="round"><path d="M2 9.5a5.5 5.5 0 0 1 9.591-3.676.56.56 0 0 0 .818 0A5.49 5.49 0 0 1 22 9.5c0 2.29-1.5 4-3 5.5l-5.492 5.313a2 2 0 0 1-3 .019L5 15c-1.5-1.5-3-3.2-3-5.5" /></g>
+<text class="mono" x="964" y="79" font-size="12" fill="#7fd6ff" letter-spacing=".2em">BEYOND CODE</text>
+</g>
+<circle cx="72" cy="124" r="5" fill="#1b1e23" stroke="url(#ribbon)" stroke-width="2"/>
+<line x1="72" y1="130" x2="72" y2="182" stroke="#2a2e35" stroke-width="1.5"/>
+<text class="sans" x="92" y="130" font-size="16" font-weight="700" fill="#f3f4f6">Systems Engineer</text>
+<text class="sans" x="92" y="152" font-size="13.5" fill="#8b93a0">Universidad de los Llanos</text>
+<circle cx="72" cy="188" r="5" fill="#1b1e23" stroke="url(#ribbon)" stroke-width="2"/>
+<line x1="72" y1="194" x2="72" y2="246" stroke="#2a2e35" stroke-width="1.5"/>
+<text class="sans" x="92" y="194" font-size="16" font-weight="700" fill="#f3f4f6">Diploma in Artificial Intelligence</text>
+<text class="sans" x="92" y="216" font-size="13.5" fill="#8b93a0">Universidad de los Llanos</text>
+<rect x="409" y="177" width="85" height="22" rx="11" fill="#262a31"/>
+<text class="mono" x="452" y="192" text-anchor="middle" font-size="10.5" font-weight="700" fill="#8b93a0" letter-spacing=".1em">COMPLETED</text>
+<circle cx="72" cy="252" r="5" fill="#1b1e23" stroke="url(#ribbon)" stroke-width="2"/>
+<line x1="72" y1="258" x2="72" y2="310" stroke="#2a2e35" stroke-width="1.5"/>
+<text class="sans" x="92" y="258" font-size="16" font-weight="700" fill="#f3f4f6">Diploma in Stock Market Operations</text>
+<text class="sans" x="92" y="280" font-size="13.5" fill="#8b93a0">Universidad de Medellín</text>
+<circle cx="72" cy="316" r="5" fill="#1b1e23" stroke="url(#ribbon)" stroke-width="2"/>
+<text class="sans" x="92" y="322" font-size="16" font-weight="700" fill="#f3f4f6">Master's degree</text>
+<text class="sans" x="92" y="344" font-size="13.5" fill="#8b93a0">In progress</text>
+<rect x="395" y="305" width="99" height="22" rx="11" fill="url(#ribbon)"/>
+<text class="mono" x="444" y="320" text-anchor="middle" font-size="10.5" font-weight="700" fill="#ffffff" letter-spacing=".1em">IN PROGRESS</text>
+<rect x="560" y="110" width="308" height="112" rx="12" fill="#20242a" stroke="#2a2e35"/>
+<rect x="560" y="128" width="3" height="76" rx="1.5" fill="url(#ribbon)"/>
+<text class="sans" x="578" y="142" font-size="15" font-weight="700" fill="#f3f4f6">AWS Lambda &amp; Serverless</text>
+<text class="sans" x="578" y="163" font-size="15" font-weight="700" fill="#f3f4f6">Architecture Bootcamp</text>
+<text class="mono" x="578" y="190" font-size="11.5" fill="#8b93a0">Serverless on AWS</text>
+<rect x="560" y="234" width="308" height="112" rx="12" fill="#20242a" stroke="#2a2e35"/>
+<rect x="560" y="252" width="3" height="76" rx="1.5" fill="url(#ribbon)"/>
+<text class="sans" x="578" y="266" font-size="15" font-weight="700" fill="#f3f4f6">Data Structures and</text>
+<text class="sans" x="578" y="287" font-size="15" font-weight="700" fill="#f3f4f6">Algorithms: Deep Dive Using</text>
+<text class="sans" x="578" y="308" font-size="15" font-weight="700" fill="#f3f4f6">Java</text>
+<text class="mono" x="578" y="335" font-size="11.5" fill="#8b93a0">Algorithms in Java</text>
+<rect x="930" y="118" width="71" height="32" rx="16" fill="#262a31"/>
+<text class="sans" x="966" y="139" text-anchor="middle" font-size="14" font-weight="500" fill="#d1d5db">Dance</text>
+<rect x="1009" y="118" width="71" height="32" rx="16" fill="#262a31"/>
+<text class="sans" x="1044" y="139" text-anchor="middle" font-size="14" font-weight="500" fill="#d1d5db">Music</text>
+<rect x="930" y="162" width="87" height="32" rx="16" fill="#262a31"/>
+<text class="sans" x="974" y="183" text-anchor="middle" font-size="14" font-weight="500" fill="#d1d5db">Sailing</text>
+<rect x="1025" y="162" width="96" height="32" rx="16" fill="#262a31"/>
+<text class="sans" x="1073" y="183" text-anchor="middle" font-size="14" font-weight="500" fill="#d1d5db">Football</text>
+<rect x="930" y="206" width="104" height="32" rx="16" fill="#262a31"/>
+<text class="sans" x="982" y="227" text-anchor="middle" font-size="14" font-weight="500" fill="#d1d5db">Freestyle</text>
+<rect x="930" y="250" width="128" height="32" rx="16" fill="url(#ribbon)"/>
+<text class="sans" x="994" y="271" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">Family first</text>
+<text class="sans" x="930" y="324" font-size="14" fill="#8b93a0">I value time, life and steady</text>
+<text class="sans" x="930" y="345" font-size="14" fill="#8b93a0">work to build the future.</text>
+</svg>

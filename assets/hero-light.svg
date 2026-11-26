@@ -158,10 +158,10 @@
 <g class="in d2"><text class="sans" x="64" y="156" font-size="62" font-weight="800" fill="#111418" letter-spacing="-1.6">Jaxon Muñoz</text></g>
 <rect class="bar" x="64" y="176" width="150" height="4" rx="2" fill="url(#ribbon)"/>
 <g class="in d3"><text class="sans" x="64" y="222" font-size="27" font-weight="600" fill="#2b3038">Software Engineer <tspan fill="#9aa2ad" font-weight="300">&amp;</tspan> AI Engineer</text></g>
-<g class="ph ph0"><text class="mono" x="64" y="268" font-size="17" fill="#5f6774"><tspan fill="#0b8fd6">› </tspan>I build backend systems that move money.</text></g>
-<g class="ph ph1" opacity="0"><text class="mono" x="64" y="268" font-size="17" fill="#5f6774"><tspan fill="#0b8fd6">› </tspan>I design event-driven pipelines at scale.</text></g>
-<g class="ph ph2" opacity="0"><text class="mono" x="64" y="268" font-size="17" fill="#5f6774"><tspan fill="#0b8fd6">› </tspan>I ship RAG and LLM agents to production.</text></g>
-<g class="ph ph3" opacity="0"><text class="mono" x="64" y="268" font-size="17" fill="#5f6774"><tspan fill="#0b8fd6">› </tspan>I lead teams from system design to delivery.</text></g>
+<g class="ph ph0"><text class="mono" x="64" y="268" font-size="17" fill="#5f6774"><tspan fill="#0b8fd6">› </tspan>I ship AI agents that run real operations.</text></g>
+<g class="ph ph1" opacity="0"><text class="mono" x="64" y="268" font-size="17" fill="#5f6774"><tspan fill="#0b8fd6">› </tspan>I build backend systems that move money.</text></g>
+<g class="ph ph2" opacity="0"><text class="mono" x="64" y="268" font-size="17" fill="#5f6774"><tspan fill="#0b8fd6">› </tspan>I design event-driven systems at scale.</text></g>
+<g class="ph ph3" opacity="0"><text class="mono" x="64" y="268" font-size="17" fill="#5f6774"><tspan fill="#0b8fd6">› </tspan>I lead teams from design to production.</text></g>
 <g class="in d5">
 <rect x="64" y="312" width="85" height="30" rx="15" fill="#eef1f5" stroke="#e2e5ea"/>
 <text class="mono" x="106" y="332" text-anchor="middle" font-size="12.5" fill="#374151">10+ years</text>
@@ -170,11 +170,11 @@
 <rect x="278.8" y="312" width="136" height="30" rx="15" fill="#eef1f5" stroke="#e2e5ea"/>
 <text class="mono" x="347" y="332" text-anchor="middle" font-size="12.5" fill="#374151">Python · FastAPI</text>
 <rect x="423.20000000000005" y="312" width="99" height="30" rx="15" fill="#eef1f5" stroke="#e2e5ea"/>
-<text class="mono" x="473" y="332" text-anchor="middle" font-size="12.5" fill="#374151">AWS · Azure</text>
-<rect x="530.6" y="312" width="85" height="30" rx="15" fill="#eef1f5" stroke="#e2e5ea"/>
-<text class="mono" x="573" y="332" text-anchor="middle" font-size="12.5" fill="#374151">LLM · RAG</text>
-<rect x="623.2" y="312" width="107" height="30" rx="15" fill="#eef1f5" stroke="#e2e5ea"/>
-<text class="mono" x="677" y="332" text-anchor="middle" font-size="12.5" fill="#374151">Medellín, CO</text>
+<text class="mono" x="473" y="332" text-anchor="middle" font-size="12.5" fill="#374151">Kafka · AWS</text>
+<rect x="530.6" y="312" width="107" height="30" rx="15" fill="#eef1f5" stroke="#e2e5ea"/>
+<text class="mono" x="584" y="332" text-anchor="middle" font-size="12.5" fill="#374151">RAG · Agents</text>
+<rect x="645.4000000000001" y="312" width="144" height="30" rx="15" fill="#eef1f5" stroke="#e2e5ea"/>
+<text class="mono" x="717" y="332" text-anchor="middle" font-size="12.5" fill="#374151">Medellín · Remote</text>
 </g>
-<g class="in d5"><text class="mono" x="64" y="384" font-size="12.5" fill="#9aa2ad">fintech · healthcare · real estate · ad tech  —  open to remote roles &amp; freelance</text></g>
+<g class="in d5"><text class="mono" x="64" y="384" font-size="12.5" fill="#9aa2ad">fintech · healthcare · real estate · logistics · education  —  open to remote roles &amp; freelance</text></g>
 </svg>
