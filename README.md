@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  Senior software engineer with 10+ years designing distributed systems in <b>Java and Spring</b>: microservices, event-driven architectures with <b>Kafka</b>,<br>
+  Software engineer since 2014, designing distributed systems in <b>Java and Spring</b>: microservices, event-driven architectures with <b>Kafka</b>,<br>
   large-scale batch processing and cloud services on <b>AWS</b> for fintech, healthcare and real estate. I bring that same engineering discipline to AI:<br>
   <b>RAG engines, agent workflows and WhatsApp automation</b> running in production for logistics, medical wellness and education.
 </p>
@@ -29,39 +29,32 @@
 ## 💼 Experience
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/freelance-dark.svg">
-  <img alt="Now: independent Senior Software & AI Product Engineer — freight logistics AI dispatch, medical wellness RAG and sales agent, multi-brand ecosystem backend, fintech consulting" src="./assets/freelance-light.svg" width="100%">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/career-dark.svg">
-  <img alt="Career path: EPAM Systems, Unosquare, Makers Solutions, earlier experience" src="./assets/career-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/journey-dark.svg">
+  <img alt="Career 2014 to now: foundations, fintech core, systems at scale, AI product engineering" src="./assets/journey-light.svg" width="100%">
 </picture>
 
 <details>
 <summary><b>Plain-text version</b> (searchable, copy-friendly)</summary>
 <br>
 
-**Independent · Freelance, LatAm clients** · Senior Software & AI Product Engineer *(now)*
-- *Freight logistics:* AI agent that automates freight service assignment, picking drivers by performance score and contacting them over WhatsApp, which removes dispatcher bias. Real-time transport monitoring with GPS, push and WhatsApp status, digital freight completion. Led the design and migration from PHP/Laravel and Angular monoliths to AWS microservices.
+**2025 — now · Senior Software & AI Product Engineer** · independent, LatAm clients
+- *Freight logistics:* AI agent that automates freight service assignment, picking drivers by performance score and contacting them over WhatsApp, which removes dispatcher bias. Real-time GPS monitoring with push and WhatsApp status, digital freight completion. Led the design and migration from PHP/Laravel and Angular monoliths to AWS microservices.
 - *Medical wellness:* backend, back-office and client portal on a multi-tenant RAG engine (tenant isolation by API key, citation-grounded answers above a relevance threshold). Multi-turn AI sales agent driven by a state machine, with a playbook mined from voice notes transcribed with Whisper. 6 document templates pre-filled by AI and signed by a licensed professional.
 - *Multi-brand ecosystem:* backend behind 4 products (subscriptions, trading education, travel, investments); legacy projects unified into one platform; shared AI layer with RAG knowledge engine, CRM engine and AI coaching agents.
-- *Fintech consulting:* Java and Spring backend features; Stripe and Whop integrations with idempotent transactions and encryption at rest.
+- *Fintech:* Java and Spring backend features; Stripe and Whop integrations with idempotent transactions and encryption at rest.
 
-**EPAM Systems** · Senior Software Engineer · Real estate
+**2022 — 2025 · Senior Software Engineer / Senior Java Developer** · U.S. clients, real estate and healthcare
 - Reactive microservices with Kafka and Spring WebFlux segmenting real-estate leads across ~1.5M U.S. properties.
 - Mortgage management and property history module exposed through REST and GraphQL.
+- Doctor-patient WebRTC video calls (Twilio) with virtual waiting room, real-time status, up to 50 participants and screen recording; microservices for oncology patient reports.
 
-**Unosquare** · Senior Java Developer · Healthcare
-- Doctor-patient WebRTC video calls (Twilio) with virtual waiting room, real-time status, up to 50 participants and screen recording.
-- Microservices for reports of patients in cancer treatment.
+**2018 — 2022 · Senior Developer Analyst → Technical Leader → Software Architect** · investments and banking
+- Microservices for daily valuation and control of investment statements in national and international markets; nightly support for valuation and accounting closings.
+- Led onboarding, technical hiring and unblocking; owned deployments, hotfixes and production incidents; massive report generation for investment funds.
+- Integrated investment valuation and accounting closing through MuleSoft Anypoint as iPaaS; caching strategies, GitHub baselines, PR reviews across teams; batch processing for massive accounting files.
 
-**Makers Solutions** · Fintech, investments and banking
-- *Software Architect:* investment valuation and accounting closing integrated through MuleSoft Anypoint as iPaaS; caching strategies, GitHub baselines, PR reviews across teams; batch processing for massive accounting files.
-- *Technical Leader:* onboarding, technical hiring, unblocking; owned deployments, hotfixes and production incidents; built massive report generation (fichas técnicas) for investment funds.
-- *Senior Developer Analyst:* microservices for daily valuation and control of investment statements in national and international markets; nightly support for valuation and accounting closings.
-
-**Earlier** · Konecta (Technical Leader and Developer Analyst: 200+ robots on AS400, SIIK) · Openlab (Java Developer: laboratory monitoring) · Freelance (Java: inventory and invoicing, MySQL design, legacy migration)
+**2014 — 2018 · Java Developer → Developer Analyst & Technical Leader**
+- Inventory and invoicing system, MySQL design and legacy data migration; laboratory process monitoring and result notifications; 200+ robots on AS400 and an internal platform, leading and training the team.
 
 </details>
 
@@ -74,14 +67,16 @@
 
 ## 🛠️ Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/orbit-dark.svg">
-  <img alt="Tech constellation: languages and frameworks, data and messaging, cloud and DevOps, AI and agents" src="./assets/orbit-light.svg" width="100%">
-</picture>
+<a href="https://jaxonjma.github.io/jaxonjma/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/orbit-dark.svg">
+    <img alt="Tech constellation: languages and frameworks, data and messaging, cloud and DevOps, AI and agents. Click to explore interactively." src="./assets/orbit-light.svg" width="100%">
+  </picture>
+</a>
 
 <p align="center">
   <a href="https://jaxonjma.github.io/jaxonjma/"><b>✨ Explore it interactively →</b></a><br>
-  <sub>Hover any technology to see where it ran in production and what it was combined with.</sub>
+  <sub>Click the constellation or this link: hover any technology to see where it ran in production and what it was combined with.</sub>
 </p>
 
 <details>
