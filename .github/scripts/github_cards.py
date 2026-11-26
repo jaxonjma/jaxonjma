@@ -125,9 +125,11 @@ def languages_svg(t, langs):
 def stats_svg(t, d):
     W, H = 590, 300
     cur, longest = streaks(d["days"])
-    items = [("Contributions", d["total"], "1y"), ("Commits", d["commits"], "1y"),
-             ("Current streak", cur, "days"), ("Longest streak", longest, "days"),
-             ("Public repos", d["repos"], ""), ("Stars earned", d["stars"], "")]
+    active = sum(1 for _, c in d["days"] if c > 0)
+    busiest = max((c for _, c in d["days"]), default=0)
+    items = [("Contributions", d["total"], "1y"), ("Active days", active, "1y"),
+             ("Busiest day", busiest, "contribs"), ("Current streak", cur, "days"),
+             ("Longest streak", longest, "days"), ("Public repos", d["repos"], "")]
     css = ".st{animation:up .7s cubic-bezier(.2,.7,.2,1) backwards}@keyframes up{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}"
     o = [head(W, H, t, "GitHub activity statistics", css)]
     o.append(f'<text class="mono" x="28" y="40" font-size="11.5" fill="{t["cyan"]}" letter-spacing=".2em">GITHUB ACTIVITY</text>')
