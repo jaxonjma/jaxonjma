@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <img alt="Jaxon Muñoz — Software Engineer & AI Engineer" src="./assets/hero-light.svg" width="100%">
+  <img alt="Jaxon Muños — Software Engineer & AI Engineer" src="./assets/hero-light.svg" width="100%">
 </picture>
 
 <p align="center">
