@@ -1,73 +1,129 @@
-<h1 align="center">Hi, I'm Jaxon 👋</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-dark.svg">
+  <img alt="Terminal: whoami — Jaxon Muñoz, senior software engineer and founder of WildCore Labs" src="./assets/terminal-light.svg" width="100%">
+</picture>
 
 <p align="center">
-  <b>Senior Full-Stack Software Engineer · Java &amp; Spring + AI-native Products</b><br>
-  Building multi-tenant products with RAG, LLM agents and WhatsApp platforms — from architecture to production.
+  <a href="https://www.linkedin.com/in/jaxon-julian-munoz-avendano/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:jaxonma@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://wildcorelabs.io"><img src="https://img.shields.io/badge/wildcorelabs.io-1b1d21?style=flat-square" alt="WildCore Labs"/></a>
+  <a href="https://stackoverflow.com/users/5870012/jaxonjma"><img src="https://img.shields.io/badge/stack%20overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
+  <img src="https://komarev.com/ghpvc/?username=jaxonjma&style=flat-square&color=2f6bff&label=visitors" alt="Profile views"/>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jaxon-julian-munoz-avendano/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://stackoverflow.com/users/5870012/jaxonjma">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
-  </a>
-  <a href="mailto:jaxonma@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=jaxonjma&style=for-the-badge&color=blueviolet" alt="Profile views"/>
-</p>
+> **TL;DR:** 10+ years shipping backend systems where correctness matters (finance, regulated reporting, national-scale event pipelines). Now founder of **[WildCore Labs](https://wildcorelabs.io)**, building multi-tenant AI infrastructure. Open to senior backend and AI architecture roles.
 
 ---
 
-### About me
+### `$ tree ~/how-i-ship`
 
-Software engineer with **10+ years** of experience building web products with **Java &amp; Spring**, now founder building **AI-native, multi-tenant products** (RAG engines, LLM agents, WhatsApp platforms). I've worked as a technical leader across full-stack development, continuous integration, testing, agile methodologies and system design — with a strong bias toward clean, well-documented and production-ready code.
+How a product moves through my hands, from a fuzzy idea to something you can operate at 3 a.m.:
 
-- 🔭 &nbsp;Building AI-native products: **Synapse** (multi-tenant RAG engine) and **Axon** (multi-tenant WhatsApp messaging platform), both running in production.
-- 🧠 &nbsp;Working with **FastAPI sales state machines**, commercial AI agents (`agent-core`), automated PDF/document generation and client portals.
-- 🌱 &nbsp;Deepening my work in **cloud, LLM orchestration and system design**.
-- 💬 &nbsp;Ask me about **Java, Spring, Python/FastAPI, RAG &amp; LLM agents, testing, CI/CD and good practices**.
-- 🌎 &nbsp;Based in **Colombia** ☀️ — open to remote and international collaboration.
-- ⚡ &nbsp;Off the keyboard: dance, music, sailing, football, freestyle and family.
+```mermaid
+flowchart LR
+    need([💡 Client need]) --> discovery[Discovery<br/>and design]
+    discovery --> core{{Multi-tenant core<br/>config over code}}
 
----
+    subgraph ai [AI layer]
+        rag[RAG engine]
+        agents[LLM agents<br/>and tool calling]
+        msg[Messaging<br/>channels]
+    end
 
-### 🛠️ Tech I work with
+    core --> rag
+    core --> agents
+    core --> msg
+    core --> api[FastAPI / Spring<br/>services]
+    api --> db[(Postgres<br/>Supabase)]
+    api --> events[[Kafka / events]]
+    api --> ci[Tests · CI/CD]
+    ci --> prod([🚀 Production])
 
-**Languages &amp; Backend**
-
-[![Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,scala,graphql)](https://github.com/jaxonjma)
-
-**Frontend**
-
-[![Skills](https://skillicons.dev/icons?i=js,ts,react,angular,html,css,bootstrap)](https://github.com/jaxonjma)
-
-**Data &amp; AI**
-
-[![Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase,kafka)](https://github.com/jaxonjma)
-
-**Cloud &amp; DevOps**
-
-[![Skills](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,git)](https://github.com/jaxonjma)
-
----
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaxonjma&theme=radical" alt="Jaxon's GitHub stats"/>
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaxonjma&theme=radical" alt="Repos per language"/>
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaxonjma&theme=radical" alt="Most commit language"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaxonjma&theme=radical&hide_border=true" alt="GitHub streak"/>
-</p>
+    classDef accent fill:#2f6bff,stroke:#7fd6ff,color:#ffffff
+    classDef soft fill:#1b1d21,stroke:#8b93a0,color:#f3f4f6
+    class core,prod accent
+    class need,discovery,rag,agents,msg,api,db,events,ci soft
+    style ai fill:transparent,stroke:#2f6bff,stroke-dasharray:5 5,color:#5aa8ff
+```
 
 ---
 
-<p align="center"><i>Always building, learning and breaking code to build the future. Let's keep in touch! 🚀</i></p>
+### `$ man jaxon`
+
+<details>
+<summary><b>💼 Experience</b>: Apple, EPAM, Unosquare, Makers Solutions, freelance</summary>
+<br>
+
+| Company · client | Highlights |
+|---|---|
+| **Apple** · FNB Ads | Migrations to **AWS**. |
+| **EPAM** · CoreLogic | **Reactive microservices on Kafka** for real-estate lead segmentation across **~1.5M U.S. properties**; **GraphQL** APIs. |
+| **Unosquare** · Healthcare | Senior backend on **GraphQL** services. |
+| **Makers Solutions** · Protección | Investment core: **derivatives valuation** and **regulatory reporting** to the Financial Superintendence. |
+| **Makers Solutions** · Bancolombia | **Tech lead → junior architect**; defined **caching strategies**. |
+| **Freelance** | **Java** backend features for a Colombian fintech; **Stripe/Whop** payments with idempotency and encryption. |
+
+</details>
+
+<details>
+<summary><b>🏢 WildCore Labs</b>: what the studio does</summary>
+<br>
+
+*Wild at heart, free by design.* An engineering studio from Medellín:
+
+- **Software engineering end to end**: web and mobile, design, development, testing, documentation, DevOps, cloud.
+- **AI agents and automation** for internal processes: docs, reviews, development, marketing, sales.
+- **Multi-tenant platforms**: RAG engines, LLM agents and messaging infrastructure, configured per client.
+- **Teams**: full IT teams and staff augmentation for companies of any size.
+- **Launch and growth**: payments, CRM, funnels, distribution and partnerships.
+
+→ [wildcorelabs.io](https://wildcorelabs.io)
+
+</details>
+
+<details>
+<summary><b>🛠️ Stack</b>: what I reach for</summary>
+<br>
+
+| Layer | Tools |
+|---|---|
+| Backend | <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,scala,graphql" height="36" alt="Backend"/> |
+| Frontend | <img src="https://skillicons.dev/icons?i=ts,js,react,angular,html,css" height="36" alt="Frontend"/> |
+| Data &amp; streaming | <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,mongodb,firebase,kafka" height="36" alt="Data"/> |
+| Cloud &amp; DevOps | <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,git" height="36" alt="Cloud"/> |
+| AI | RAG · LLM agents · tool calling · workflow automation |
+
+</details>
+
+<details>
+<summary><b>📐 Principles</b>: how I make decisions</summary>
+<br>
+
+```yaml
+correctness: idempotent by default, explicit failure modes, tests that describe behavior
+scale:       design for the second tenant, so the hundredth costs less than the first
+stack:       adapt to the client's; default to Python/FastAPI · Supabase · Railway
+docs:        if it only lives in my head, it isn't done
+```
+
+</details>
+
+<details>
+<summary><b>🎓 Learning</b></summary>
+<br>
+
+- Diploma in Artificial Intelligence, Universidad de los Llanos.
+- Starting a master's degree.
+
+</details>
+
+---
+
+### `$ git log --graph`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaxonjma/jaxonjma/output/snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/jaxonjma/jaxonjma/output/snake.svg" width="100%">
+</picture>
+
+<p align="center"><sub>Medellín, Colombia 🇨🇴 · <code>exit 0</code></sub></p>

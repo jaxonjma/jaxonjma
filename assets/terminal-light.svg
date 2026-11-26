@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="518" viewBox="0 0 1200 518" role="img" aria-label="Terminal: whoami — Jaxon Muñoz, senior software engineer and founder of WildCore Labs">
+<defs><style>.m{font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:16px}
+.cur{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+.t0{animation:w0 0.35s steps(6) 0.40s backwards}@keyframes w0{from{width:18.2px}to{width:80.8px}}
+.o1{animation:fi .25s ease-out 1.10s backwards}
+.t3{animation:w3 0.99s steps(18) 1.43s backwards}@keyframes w3{from{width:18.2px}to{width:196.0px}}
+.o4{animation:fi .25s ease-out 2.77s backwards}
+.o5{animation:fi .25s ease-out 2.95s backwards}
+.o6{animation:fi .25s ease-out 3.13s backwards}
+.o7{animation:fi .25s ease-out 3.31s backwards}
+.o8{animation:fi .25s ease-out 3.49s backwards}
+.t10{animation:w10 0.55s steps(10) 3.82s backwards}@keyframes w10{from{width:18.2px}to{width:119.2px}}
+.o11{animation:fi .25s ease-out 4.72s backwards}
+.o12{animation:fi .25s ease-out 4.90s backwards}
+@keyframes fi{from{opacity:0}to{opacity:1}}
+.fin{animation:fi .2s 5.28s backwards}</style><clipPath id="c0"><rect class="t0" x="40" y="76" width="80.8" height="28"/></clipPath><clipPath id="c3"><rect class="t3" x="40" y="166" width="196.0" height="28"/></clipPath><clipPath id="c10"><rect class="t10" x="40" y="376" width="119.2" height="28"/></clipPath></defs>
+<rect x=".75" y=".75" width="1198.5" height="516.5" rx="14" fill="#fbfbfc" stroke="#d9dde3" stroke-width="1.5"/>
+<path d="M.75 48 V14.75 a14 14 0 0 1 14 -14 H1185.25 a14 14 0 0 1 14 14 V48 Z" fill="#eceef2"/>
+<line x1="0" y1="48" x2="1200" y2="48" stroke="#d9dde3"/>
+<circle cx="28" cy="24" r="6.5" fill="#ff5f57"/><circle cx="50" cy="24" r="6.5" fill="#febc2e"/><circle cx="72" cy="24" r="6.5" fill="#28c840"/>
+<text class="m" x="600.0" y="29" text-anchor="middle" font-size="13" fill="#6b7280" style="font-size:13px">jaxon@wildcore-labs: ~</text>
+<text class="m" x="40" y="96" clip-path="url(#c0)"><tspan fill="#0b8fd6">$ </tspan><tspan fill="#16181c">whoami</tspan></text>
+<text class="m o1" x="40" y="126" xml:space="preserve"><tspan fill="#16181c">jaxon muñoz</tspan><tspan fill="#6b7280"> · senior software engineer · founder @ </tspan><tspan fill="#0b8fd6">wildcore labs</tspan></text>
+<text class="m" x="40" y="186" clip-path="url(#c3)"><tspan fill="#0b8fd6">$ </tspan><tspan fill="#16181c">ls -1 ~/experience</tspan></text>
+<text class="m o4" x="40" y="216" xml:space="preserve"><tspan fill="#2459e0">apple.fnb-ads/       </tspan><tspan fill="#6b7280">aws migrations</tspan></text>
+<text class="m o5" x="40" y="246" xml:space="preserve"><tspan fill="#2459e0">epam.corelogic/      </tspan><tspan fill="#6b7280">reactive kafka microservices · ~1.5M U.S. properties</tspan></text>
+<text class="m o6" x="40" y="276" xml:space="preserve"><tspan fill="#2459e0">makers.proteccion/   </tspan><tspan fill="#6b7280">derivatives valuation · regulatory reporting</tspan></text>
+<text class="m o7" x="40" y="306" xml:space="preserve"><tspan fill="#2459e0">makers.bancolombia/  </tspan><tspan fill="#6b7280">tech lead → junior architect · caching strategy</tspan></text>
+<text class="m o8" x="40" y="336" xml:space="preserve"><tspan fill="#2459e0">unosquare.health/    </tspan><tspan fill="#6b7280">graphql services for healthcare</tspan></text>
+<text class="m" x="40" y="396" clip-path="url(#c10)"><tspan fill="#0b8fd6">$ </tspan><tspan fill="#16181c">cat now.md</tspan></text>
+<text class="m o11" x="40" y="426" xml:space="preserve"><tspan fill="#0b8fd6">→ </tspan><tspan fill="#2b3038">building multi-tenant AI infra at wildcore labs: rag · agents · messaging</tspan></text>
+<text class="m o12" x="40" y="456" xml:space="preserve"><tspan fill="#0b8fd6">→ </tspan><tspan fill="#16181c">open to senior backend / AI architecture roles</tspan></text>
+<g class="fin"><text class="m" x="40" y="484"><tspan fill="#0b8fd6">$ </tspan></text><rect class="cur" x="61.2" y="469" width="9" height="19" fill="#0b8fd6"/></g>
+</svg>
