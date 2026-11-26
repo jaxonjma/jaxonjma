@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-label="Jaxon Muños — Software Engineer &amp; AI Engineer">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fbfbfc"/><stop offset="1" stop-color="#f1f3f6"/></linearGradient>
+<linearGradient id="ribbon" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2f6bff"/><stop offset="1" stop-color="#0b8fd6"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#0f172a" stroke-opacity=".045"/></pattern>
+<style>
+.sans{font-family:'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}
+.mono{font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace}
+
+.in{animation:in 1s cubic-bezier(.2,.7,.2,1) backwards}@keyframes in{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+.ln{animation:ln 1.4s cubic-bezier(.2,.7,.2,1) backwards;transform-origin:left;transform-box:fill-box}@keyframes ln{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+.pulse{animation:pu 1.6s ease-in-out infinite}@keyframes pu{50%{opacity:.25}}
+</style>
+</defs>
+<linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox"><stop offset="0" stop-color="#111418"/><stop offset=".42" stop-color="#111418"/><stop offset=".5" stop-color="#0b8fd6"/><stop offset=".58" stop-color="#111418"/><stop offset="1" stop-color="#111418"/><animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0;1 0" keyTimes="0;.45;1" dur="7s" repeatCount="indefinite"/></linearGradient>
+<rect width="1200" height="440" rx="18" fill="url(#bg)"/>
+<line x1="64" y1="40" x2="64" y2="400" stroke="#e2e5ea"/>
+<line x1="760" y1="40" x2="760" y2="400" stroke="#e2e5ea"/>
+<line class="ln" x1="64" y1="300" x2="1136" y2="300" stroke="#e2e5ea"/>
+<text class="mono in" x="84" y="74" font-size="12" fill="#0b8fd6" letter-spacing=".26em">PORTFOLIO · 2026</text>
+<g class="in" style="animation-delay:.15s"><text class="sans" x="80" y="186" font-size="128" font-weight="800" letter-spacing="-5" fill="url(#sweep)">Jaxon</text></g>
+<g class="in" style="animation-delay:.3s"><text class="sans" x="80" y="282" font-size="128" font-weight="300" letter-spacing="-5" fill="#111418">Muños<tspan fill="#0b8fd6" font-weight="800">.</tspan></text></g>
+<g class="in" style="animation-delay:.5s"><text class="sans" x="84" y="350" font-size="24" font-weight="600" fill="#2b3038">Software Engineer &amp; AI Engineer</text><text class="sans" x="84" y="384" font-size="15" fill="#5f6774">Distributed systems in Java and Python. Agents and RAG that run real operations.</text></g>
+<g class="in" style="animation-delay:0.40s"><text class="mono" x="784" y="96" font-size="11" fill="#9aa2ad" letter-spacing=".2em">ROLE</text><text class="sans" x="900" y="96" font-size="15" font-weight="500" fill="#111418">Software &amp; AI Engineer</text><line x1="784" y1="110" x2="1136" y2="110" stroke="#e2e5ea" stroke-opacity=".6"/></g>
+<g class="in" style="animation-delay:0.48s"><text class="mono" x="784" y="134" font-size="11" fill="#9aa2ad" letter-spacing=".2em">SINCE</text><text class="sans" x="900" y="134" font-size="15" font-weight="500" fill="#111418">2014 · 10+ years</text><line x1="784" y1="148" x2="1136" y2="148" stroke="#e2e5ea" stroke-opacity=".6"/></g>
+<g class="in" style="animation-delay:0.56s"><text class="mono" x="784" y="172" font-size="11" fill="#9aa2ad" letter-spacing=".2em">BASE</text><text class="sans" x="900" y="172" font-size="15" font-weight="500" fill="#111418">Medellín, CO · UTC−5</text><line x1="784" y1="186" x2="1136" y2="186" stroke="#e2e5ea" stroke-opacity=".6"/></g>
+<g class="in" style="animation-delay:0.64s"><text class="mono" x="784" y="210" font-size="11" fill="#9aa2ad" letter-spacing=".2em">FOCUS</text><text class="sans" x="900" y="210" font-size="15" font-weight="500" fill="#111418">Backend · Distributed · AI</text><line x1="784" y1="224" x2="1136" y2="224" stroke="#e2e5ea" stroke-opacity=".6"/></g>
+<g class="in" style="animation-delay:0.72s"><text class="mono" x="784" y="248" font-size="11" fill="#9aa2ad" letter-spacing=".2em">DOMAINS</text><text class="sans" x="900" y="248" font-size="15" font-weight="500" fill="#111418">Fintech · Health · Logistics</text><line x1="784" y1="262" x2="1136" y2="262" stroke="#e2e5ea" stroke-opacity=".6"/></g>
+<g class="in" style="animation-delay:.9s"><circle class="pulse" cx="790" cy="340" r="5" fill="#28c840"/><text class="mono" x="804" y="344.5" font-size="12.5" fill="#111418" letter-spacing=".08em">OPEN TO REMOTE ROLES &amp; FREELANCE</text><text class="mono" x="784" y="384" font-size="12" fill="#5f6774">github.com/jaxonjma</text></g>
+</svg>

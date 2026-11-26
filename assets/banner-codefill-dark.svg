@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-label="Jaxon Muños — Software Engineer &amp; AI Engineer">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#15171b"/><stop offset="1" stop-color="#0f1013"/></linearGradient>
+<linearGradient id="ribbon" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2f6bff"/><stop offset="1" stop-color="#7fd6ff"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+<style>
+.sans{font-family:'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}
+.mono{font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace}
+
+.cs{animation:cs 20.8s linear infinite}@keyframes cs{from{transform:translateY(0)}to{transform:translateY(-272px)}}
+.in{animation:in 1s cubic-bezier(.2,.7,.2,1) backwards}@keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+</style>
+</defs>
+<rect width="1200" height="440" rx="18" fill="url(#bg)"/><rect width="1200" height="440" rx="18" fill="url(#grid)"/>
+<clipPath id="nm"><text class="sans" x="600" y="226" text-anchor="middle" font-size="134" font-weight="900" letter-spacing="-3">JAXON MUÑOS</text></clipPath>
+<g opacity=".05">
+<text class="mono" x="40" y="30" font-size="12" fill="#8b93a0">@Transactional public Valuation close(Portfolio p) {  async def answer(q: Query, tenant: Tenant):</text>
+<text class="mono" x="40" y="47" font-size="12" fill="#8b93a0">  return ledger.reconcile(p).orElseThrow();  await whatsapp.send(driver.phone, offer)</text>
+<text class="mono" x="40" y="64" font-size="12" fill="#8b93a0">}    return ledger.reconcile(p).orElseThrow();</text>
+<text class="mono" x="40" y="81" font-size="12" fill="#8b93a0">async def answer(q: Query, tenant: Tenant):  state = machine.next(state, event)  # qualify -&gt; offer</text>
+<text class="mono" x="40" y="98" font-size="12" fill="#8b93a0">    docs = await store.search(q, tenant, k=8)  cache.computeIfAbsent(fundId, this::loadFactsheet);</text>
+<text class="mono" x="40" y="115" font-size="12" fill="#8b93a0">    cited = [d for d in docs if d.score &gt;= THRESHOLD]      return llm.respond(q, cited) if cited else NO_ANSWER</text>
+<text class="mono" x="40" y="132" font-size="12" fill="#8b93a0">    return llm.respond(q, cited) if cited else NO_ANSWER  if not reviewer.signed(doc): raise PendingSignature</text>
+<text class="mono" x="40" y="149" font-size="12" fill="#8b93a0">kafkaTemplate.send("leads.segmented", lead.id(), lead);      docs = await store.search(q, tenant, k=8)</text>
+<text class="mono" x="40" y="166" font-size="12" fill="#8b93a0">state = machine.next(state, event)  # qualify -&gt; offer  Flux.fromIterable(properties).flatMap(this::segment)</text>
+<text class="mono" x="40" y="183" font-size="12" fill="#8b93a0">driver = max(candidates, key=lambda d: d.score)  }</text>
+<text class="mono" x="40" y="200" font-size="12" fill="#8b93a0">await whatsapp.send(driver.phone, offer)  driver = max(candidates, key=lambda d: d.score)</text>
+<text class="mono" x="40" y="217" font-size="12" fill="#8b93a0">Flux.fromIterable(properties).flatMap(this::segment)  @Transactional public Valuation close(Portfolio p) {</text>
+<text class="mono" x="40" y="234" font-size="12" fill="#8b93a0">@Idempotent(key = "#req.paymentId") Charge pay(req)  kafkaTemplate.send("leads.segmented", lead.id(), lead);</text>
+<text class="mono" x="40" y="251" font-size="12" fill="#8b93a0">if not reviewer.signed(doc): raise PendingSignature  SELECT * FROM chunks WHERE tenant_id = auth.tenant()</text>
+<text class="mono" x="40" y="268" font-size="12" fill="#8b93a0">SELECT * FROM chunks WHERE tenant_id = auth.tenant()      cited = [d for d in docs if d.score &gt;= THRESHOLD]</text>
+<text class="mono" x="40" y="285" font-size="12" fill="#8b93a0">cache.computeIfAbsent(fundId, this::loadFactsheet);  @Idempotent(key = "#req.paymentId") Charge pay(req)</text>
+<text class="mono" x="40" y="302" font-size="12" fill="#8b93a0">@Transactional public Valuation close(Portfolio p) {  async def answer(q: Query, tenant: Tenant):</text>
+<text class="mono" x="40" y="319" font-size="12" fill="#8b93a0">  return ledger.reconcile(p).orElseThrow();  await whatsapp.send(driver.phone, offer)</text>
+<text class="mono" x="40" y="336" font-size="12" fill="#8b93a0">}    return ledger.reconcile(p).orElseThrow();</text>
+<text class="mono" x="40" y="353" font-size="12" fill="#8b93a0">async def answer(q: Query, tenant: Tenant):  state = machine.next(state, event)  # qualify -&gt; offer</text>
+<text class="mono" x="40" y="370" font-size="12" fill="#8b93a0">    docs = await store.search(q, tenant, k=8)  cache.computeIfAbsent(fundId, this::loadFactsheet);</text>
+<text class="mono" x="40" y="387" font-size="12" fill="#8b93a0">    cited = [d for d in docs if d.score &gt;= THRESHOLD]      return llm.respond(q, cited) if cited else NO_ANSWER</text>
+<text class="mono" x="40" y="404" font-size="12" fill="#8b93a0">    return llm.respond(q, cited) if cited else NO_ANSWER  if not reviewer.signed(doc): raise PendingSignature</text>
+<text class="mono" x="40" y="421" font-size="12" fill="#8b93a0">kafkaTemplate.send("leads.segmented", lead.id(), lead);      docs = await store.search(q, tenant, k=8)</text>
+</g>
+<g clip-path="url(#nm)"><g class="cs">
+<text class="mono" x="70" y="60" font-size="14" font-weight="700" fill="#7fd6ff">@Transactional public Valuation close(Portfolio p) {       cited = [d for d in docs if d.score &gt;= THRESHOLD]   driver = max(candidates, key=lambda d: d.score)</text>
+<text class="mono" x="70" y="77" font-size="14" font-weight="700" fill="#f3f4f6">  return ledger.reconcile(p).orElseThrow();       return llm.respond(q, cited) if cited else NO_ANSWER   await whatsapp.send(driver.phone, offer)</text>
+<text class="mono" x="70" y="94" font-size="14" font-weight="700" fill="#2f6bff">}   kafkaTemplate.send("leads.segmented", lead.id(), lead);   Flux.fromIterable(properties).flatMap(this::segment)</text>
+<text class="mono" x="70" y="111" font-size="14" font-weight="700" fill="#7fd6ff">async def answer(q: Query, tenant: Tenant):   state = machine.next(state, event)  # qualify -&gt; offer   @Idempotent(key = "#req.paymentId") Charge pay(req)</text>
+<text class="mono" x="70" y="128" font-size="14" font-weight="700" fill="#f3f4f6">    docs = await store.search(q, tenant, k=8)   driver = max(candidates, key=lambda d: d.score)   if not reviewer.signed(doc): raise PendingSignature</text>
+<text class="mono" x="70" y="145" font-size="14" font-weight="700" fill="#2f6bff">    cited = [d for d in docs if d.score &gt;= THRESHOLD]   await whatsapp.send(driver.phone, offer)   SELECT * FROM chunks WHERE tenant_id = auth.tenant()</text>
+<text class="mono" x="70" y="162" font-size="14" font-weight="700" fill="#7fd6ff">    return llm.respond(q, cited) if cited else NO_ANSWER   Flux.fromIterable(properties).flatMap(this::segment)   cache.computeIfAbsent(fundId, this::loadFactsheet);</text>
+<text class="mono" x="70" y="179" font-size="14" font-weight="700" fill="#f3f4f6">kafkaTemplate.send("leads.segmented", lead.id(), lead);   @Idempotent(key = "#req.paymentId") Charge pay(req)   @Transactional public Valuation close(Portfolio p) {</text>
+<text class="mono" x="70" y="196" font-size="14" font-weight="700" fill="#2f6bff">state = machine.next(state, event)  # qualify -&gt; offer   if not reviewer.signed(doc): raise PendingSignature     return ledger.reconcile(p).orElseThrow();</text>
+<text class="mono" x="70" y="213" font-size="14" font-weight="700" fill="#7fd6ff">driver = max(candidates, key=lambda d: d.score)   SELECT * FROM chunks WHERE tenant_id = auth.tenant()   }</text>
+<text class="mono" x="70" y="230" font-size="14" font-weight="700" fill="#f3f4f6">await whatsapp.send(driver.phone, offer)   cache.computeIfAbsent(fundId, this::loadFactsheet);   async def answer(q: Query, tenant: Tenant):</text>
+<text class="mono" x="70" y="247" font-size="14" font-weight="700" fill="#2f6bff">Flux.fromIterable(properties).flatMap(this::segment)   @Transactional public Valuation close(Portfolio p) {       docs = await store.search(q, tenant, k=8)</text>
+<text class="mono" x="70" y="264" font-size="14" font-weight="700" fill="#7fd6ff">@Idempotent(key = "#req.paymentId") Charge pay(req)     return ledger.reconcile(p).orElseThrow();       cited = [d for d in docs if d.score &gt;= THRESHOLD]</text>
+<text class="mono" x="70" y="281" font-size="14" font-weight="700" fill="#f3f4f6">if not reviewer.signed(doc): raise PendingSignature   }       return llm.respond(q, cited) if cited else NO_ANSWER</text>
+<text class="mono" x="70" y="298" font-size="14" font-weight="700" fill="#2f6bff">SELECT * FROM chunks WHERE tenant_id = auth.tenant()   async def answer(q: Query, tenant: Tenant):   kafkaTemplate.send("leads.segmented", lead.id(), lead);</text>
+<text class="mono" x="70" y="315" font-size="14" font-weight="700" fill="#7fd6ff">cache.computeIfAbsent(fundId, this::loadFactsheet);       docs = await store.search(q, tenant, k=8)   state = machine.next(state, event)  # qualify -&gt; offer</text>
+<text class="mono" x="70" y="332" font-size="14" font-weight="700" fill="#7fd6ff">@Transactional public Valuation close(Portfolio p) {       cited = [d for d in docs if d.score &gt;= THRESHOLD]   driver = max(candidates, key=lambda d: d.score)</text>
+<text class="mono" x="70" y="349" font-size="14" font-weight="700" fill="#f3f4f6">  return ledger.reconcile(p).orElseThrow();       return llm.respond(q, cited) if cited else NO_ANSWER   await whatsapp.send(driver.phone, offer)</text>
+<text class="mono" x="70" y="366" font-size="14" font-weight="700" fill="#2f6bff">}   kafkaTemplate.send("leads.segmented", lead.id(), lead);   Flux.fromIterable(properties).flatMap(this::segment)</text>
+<text class="mono" x="70" y="383" font-size="14" font-weight="700" fill="#7fd6ff">async def answer(q: Query, tenant: Tenant):   state = machine.next(state, event)  # qualify -&gt; offer   @Idempotent(key = "#req.paymentId") Charge pay(req)</text>
+<text class="mono" x="70" y="400" font-size="14" font-weight="700" fill="#f3f4f6">    docs = await store.search(q, tenant, k=8)   driver = max(candidates, key=lambda d: d.score)   if not reviewer.signed(doc): raise PendingSignature</text>
+<text class="mono" x="70" y="417" font-size="14" font-weight="700" fill="#2f6bff">    cited = [d for d in docs if d.score &gt;= THRESHOLD]   await whatsapp.send(driver.phone, offer)   SELECT * FROM chunks WHERE tenant_id = auth.tenant()</text>
+<text class="mono" x="70" y="434" font-size="14" font-weight="700" fill="#7fd6ff">    return llm.respond(q, cited) if cited else NO_ANSWER   Flux.fromIterable(properties).flatMap(this::segment)   cache.computeIfAbsent(fundId, this::loadFactsheet);</text>
+<text class="mono" x="70" y="451" font-size="14" font-weight="700" fill="#f3f4f6">kafkaTemplate.send("leads.segmented", lead.id(), lead);   @Idempotent(key = "#req.paymentId") Charge pay(req)   @Transactional public Valuation close(Portfolio p) {</text>
+<text class="mono" x="70" y="468" font-size="14" font-weight="700" fill="#2f6bff">state = machine.next(state, event)  # qualify -&gt; offer   if not reviewer.signed(doc): raise PendingSignature     return ledger.reconcile(p).orElseThrow();</text>
+<text class="mono" x="70" y="485" font-size="14" font-weight="700" fill="#7fd6ff">driver = max(candidates, key=lambda d: d.score)   SELECT * FROM chunks WHERE tenant_id = auth.tenant()   }</text>
+<text class="mono" x="70" y="502" font-size="14" font-weight="700" fill="#f3f4f6">await whatsapp.send(driver.phone, offer)   cache.computeIfAbsent(fundId, this::loadFactsheet);   async def answer(q: Query, tenant: Tenant):</text>
+<text class="mono" x="70" y="519" font-size="14" font-weight="700" fill="#2f6bff">Flux.fromIterable(properties).flatMap(this::segment)   @Transactional public Valuation close(Portfolio p) {       docs = await store.search(q, tenant, k=8)</text>
+<text class="mono" x="70" y="536" font-size="14" font-weight="700" fill="#7fd6ff">@Idempotent(key = "#req.paymentId") Charge pay(req)     return ledger.reconcile(p).orElseThrow();       cited = [d for d in docs if d.score &gt;= THRESHOLD]</text>
+<text class="mono" x="70" y="553" font-size="14" font-weight="700" fill="#f3f4f6">if not reviewer.signed(doc): raise PendingSignature   }       return llm.respond(q, cited) if cited else NO_ANSWER</text>
+<text class="mono" x="70" y="570" font-size="14" font-weight="700" fill="#2f6bff">SELECT * FROM chunks WHERE tenant_id = auth.tenant()   async def answer(q: Query, tenant: Tenant):   kafkaTemplate.send("leads.segmented", lead.id(), lead);</text>
+<text class="mono" x="70" y="587" font-size="14" font-weight="700" fill="#7fd6ff">cache.computeIfAbsent(fundId, this::loadFactsheet);       docs = await store.search(q, tenant, k=8)   state = machine.next(state, event)  # qualify -&gt; offer</text>
+<text class="mono" x="70" y="604" font-size="14" font-weight="700" fill="#7fd6ff">@Transactional public Valuation close(Portfolio p) {       cited = [d for d in docs if d.score &gt;= THRESHOLD]   driver = max(candidates, key=lambda d: d.score)</text>
+<text class="mono" x="70" y="621" font-size="14" font-weight="700" fill="#f3f4f6">  return ledger.reconcile(p).orElseThrow();       return llm.respond(q, cited) if cited else NO_ANSWER   await whatsapp.send(driver.phone, offer)</text>
+<text class="mono" x="70" y="638" font-size="14" font-weight="700" fill="#2f6bff">}   kafkaTemplate.send("leads.segmented", lead.id(), lead);   Flux.fromIterable(properties).flatMap(this::segment)</text>
+<text class="mono" x="70" y="655" font-size="14" font-weight="700" fill="#7fd6ff">async def answer(q: Query, tenant: Tenant):   state = machine.next(state, event)  # qualify -&gt; offer   @Idempotent(key = "#req.paymentId") Charge pay(req)</text>
+<text class="mono" x="70" y="672" font-size="14" font-weight="700" fill="#f3f4f6">    docs = await store.search(q, tenant, k=8)   driver = max(candidates, key=lambda d: d.score)   if not reviewer.signed(doc): raise PendingSignature</text>
+<text class="mono" x="70" y="689" font-size="14" font-weight="700" fill="#2f6bff">    cited = [d for d in docs if d.score &gt;= THRESHOLD]   await whatsapp.send(driver.phone, offer)   SELECT * FROM chunks WHERE tenant_id = auth.tenant()</text>
+<text class="mono" x="70" y="706" font-size="14" font-weight="700" fill="#7fd6ff">    return llm.respond(q, cited) if cited else NO_ANSWER   Flux.fromIterable(properties).flatMap(this::segment)   cache.computeIfAbsent(fundId, this::loadFactsheet);</text>
+<text class="mono" x="70" y="723" font-size="14" font-weight="700" fill="#f3f4f6">kafkaTemplate.send("leads.segmented", lead.id(), lead);   @Idempotent(key = "#req.paymentId") Charge pay(req)   @Transactional public Valuation close(Portfolio p) {</text>
+<text class="mono" x="70" y="740" font-size="14" font-weight="700" fill="#2f6bff">state = machine.next(state, event)  # qualify -&gt; offer   if not reviewer.signed(doc): raise PendingSignature     return ledger.reconcile(p).orElseThrow();</text>
+<text class="mono" x="70" y="757" font-size="14" font-weight="700" fill="#7fd6ff">driver = max(candidates, key=lambda d: d.score)   SELECT * FROM chunks WHERE tenant_id = auth.tenant()   }</text>
+<text class="mono" x="70" y="774" font-size="14" font-weight="700" fill="#f3f4f6">await whatsapp.send(driver.phone, offer)   cache.computeIfAbsent(fundId, this::loadFactsheet);   async def answer(q: Query, tenant: Tenant):</text>
+<text class="mono" x="70" y="791" font-size="14" font-weight="700" fill="#2f6bff">Flux.fromIterable(properties).flatMap(this::segment)   @Transactional public Valuation close(Portfolio p) {       docs = await store.search(q, tenant, k=8)</text>
+<text class="mono" x="70" y="808" font-size="14" font-weight="700" fill="#7fd6ff">@Idempotent(key = "#req.paymentId") Charge pay(req)     return ledger.reconcile(p).orElseThrow();       cited = [d for d in docs if d.score &gt;= THRESHOLD]</text>
+<text class="mono" x="70" y="825" font-size="14" font-weight="700" fill="#f3f4f6">if not reviewer.signed(doc): raise PendingSignature   }       return llm.respond(q, cited) if cited else NO_ANSWER</text>
+<text class="mono" x="70" y="842" font-size="14" font-weight="700" fill="#2f6bff">SELECT * FROM chunks WHERE tenant_id = auth.tenant()   async def answer(q: Query, tenant: Tenant):   kafkaTemplate.send("leads.segmented", lead.id(), lead);</text>
+<text class="mono" x="70" y="859" font-size="14" font-weight="700" fill="#7fd6ff">cache.computeIfAbsent(fundId, this::loadFactsheet);       docs = await store.search(q, tenant, k=8)   state = machine.next(state, event)  # qualify -&gt; offer</text>
+</g></g>
+<text class="sans" x="600" y="226" text-anchor="middle" font-size="134" font-weight="900" letter-spacing="-3" fill="none" stroke="#f3f4f6" stroke-opacity=".25" stroke-width="1">JAXON MUÑOS</text>
+<g class="in" style="animation-delay:.3s"><text class="sans" x="600" y="310" text-anchor="middle" font-size="26" font-weight="600" fill="#f3f4f6">Software Engineer <tspan fill="#5b6370" font-weight="300">&amp;</tspan> AI Engineer</text></g>
+<g class="in" style="animation-delay:.5s"><text class="mono" x="600" y="352" text-anchor="middle" font-size="13.5" fill="#8b93a0">Java · Spring · Kafka · Python · FastAPI · RAG · Agents</text><text class="mono" x="600" y="384" text-anchor="middle" font-size="12" fill="#5b6370" letter-spacing=".14em">MEDELLÍN, CO · SINCE 2014 · OPEN TO REMOTE &amp; FREELANCE</text></g>
+</svg>
