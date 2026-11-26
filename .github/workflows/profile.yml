@@ -5,7 +5,7 @@ on:
     - cron: "23 6 * * *" # daily
   workflow_dispatch:
   push:
-    branches: [main, profile-v2]
+    branches: [main, profile-v4]
     paths-ignore: ["generated/**", "profile-3d-contrib/**"]
 
 permissions:
