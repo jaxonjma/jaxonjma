@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Always building, learning and breaking code to build the future.">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fbfbfc"/><stop offset="1" stop-color="#f1f3f6"/></linearGradient>
+<linearGradient id="ribbon" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2f6bff"/><stop offset="1" stop-color="#0b8fd6"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#0f172a" stroke-opacity=".045"/></pattern>
+<style>
+.sans{font-family:'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}
+.mono{font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace}
+
+.w1{animation:drift 16s linear infinite}.w2{animation:drift 24s linear infinite reverse}.w3{animation:drift 11s linear infinite}
+@keyframes drift{from{transform:translateX(0)}to{transform:translateX(-600px)}}
+.q{animation:in 1.2s ease-out .2s backwards}@keyframes in{from{opacity:0}to{opacity:1}}
+</style>
+</defs>
+<clipPath id="r"><rect width="1200" height="200" rx="18"/></clipPath>
+<g clip-path="url(#r)"><rect width="1200" height="200" fill="url(#bg)"/>
+<path class="w2" d="M0 132 Q 75.0 122 150.0 132 Q 225.0 142 300.0 132 Q 375.0 122 450.0 132 Q 525.0 142 600.0 132 Q 675.0 122 750.0 132 Q 825.0 142 900.0 132 Q 975.0 122 1050.0 132 Q 1125.0 142 1200.0 132 Q 1275.0 122 1350.0 132 Q 1425.0 142 1500.0 132 Q 1575.0 122 1650.0 132 Q 1725.0 142 1800.0 132 V 200 H 0 Z" fill="#0b8fd6" fill-opacity=".10"/>
+<path class="w1" d="M0 146 Q 50.0 134 100.0 146 Q 150.0 158 200.0 146 Q 250.0 134 300.0 146 Q 350.0 158 400.0 146 Q 450.0 134 500.0 146 Q 550.0 158 600.0 146 Q 650.0 134 700.0 146 Q 750.0 158 800.0 146 Q 850.0 134 900.0 146 Q 950.0 158 1000.0 146 Q 1050.0 134 1100.0 146 Q 1150.0 158 1200.0 146 Q 1250.0 134 1300.0 146 Q 1350.0 158 1400.0 146 Q 1450.0 134 1500.0 146 Q 1550.0 158 1600.0 146 Q 1650.0 134 1700.0 146 Q 1750.0 158 1800.0 146 V 200 H 0 Z" fill="#2f6bff" fill-opacity=".14"/>
+<path class="w3" d="M0 162 Q 37.5 154 75.0 162 Q 112.5 170 150.0 162 Q 187.5 154 225.0 162 Q 262.5 170 300.0 162 Q 337.5 154 375.0 162 Q 412.5 170 450.0 162 Q 487.5 154 525.0 162 Q 562.5 170 600.0 162 Q 637.5 154 675.0 162 Q 712.5 170 750.0 162 Q 787.5 154 825.0 162 Q 862.5 170 900.0 162 Q 937.5 154 975.0 162 Q 1012.5 170 1050.0 162 Q 1087.5 154 1125.0 162 Q 1162.5 170 1200.0 162 Q 1237.5 154 1275.0 162 Q 1312.5 170 1350.0 162 Q 1387.5 154 1425.0 162 Q 1462.5 170 1500.0 162 Q 1537.5 154 1575.0 162 Q 1612.5 170 1650.0 162 Q 1687.5 154 1725.0 162 Q 1762.5 170 1800.0 162 V 200 H 0 Z" fill="url(#ribbon)" fill-opacity=".22"/>
+</g>
+<g class="q"><text class="sans" x="600.0" y="70" text-anchor="middle" font-size="22" font-style="italic" font-weight="500" fill="#111418">Always building, learning and breaking code to build the future.</text><text class="mono" x="600.0" y="102" text-anchor="middle" font-size="12.5" fill="#5f6774" letter-spacing=".18em">MEDELLÍN, COLOMBIA · OPEN TO REMOTE ROLES &amp; FREELANCE</text></g>
+</svg>

@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="836" viewBox="0 0 1200 836" role="img" aria-label="Experience: Freelance (fintech, AI), EPAM · CoreLogic, Unosquare, Makers Solutions · Protección &amp; Bancolombia, Apple · FNB Ads">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#15171b"/><stop offset="1" stop-color="#0f1013"/></linearGradient>
+<linearGradient id="ribbon" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2f6bff"/><stop offset="1" stop-color="#7fd6ff"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+<style>
+.sans{font-family:'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}
+.mono{font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace}
+.cd{animation:up .8s cubic-bezier(.2,.7,.2,1) backwards}@keyframes up{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}.k0{animation-delay:0.00s}.k1{animation-delay:0.12s}.k2{animation-delay:0.24s}.k3{animation-delay:0.36s}.k4{animation-delay:0.48s}</style>
+</defs>
+<rect width="1200" height="836" rx="18" fill="url(#bg)"/>
+<g class="cd k0">
+<rect x="40" y="40" width="1120" height="236" rx="16" fill="#1b1e23" stroke="#2a2e35"/>
+<rect x="40" y="62" width="4" height="192" rx="2" fill="url(#ribbon)"/>
+<text class="sans" x="68" y="82" font-size="24" font-weight="800" fill="#f3f4f6" letter-spacing="-.4">Independent<tspan font-weight="400" fill="#8b93a0"> · Freelance</tspan></text>
+<text class="mono" x="68" y="106" font-size="12.5" fill="#7fd6ff" letter-spacing=".04em">Software Engineer &amp; AI Engineer</text>
+<rect x="1095" y="62" width="43" height="24" rx="12" fill="url(#ribbon)" stroke="#2a2e35"/>
+<text class="mono" x="1117" y="78" text-anchor="middle" font-size="11" font-weight="700" fill="#ffffff" letter-spacing=".12em">NOW</text>
+<circle cx="71.0" cy="133" r="2.6" fill="#7fd6ff"/>
+<text class="sans" x="84.0" y="138" font-size="14" fill="#d1d5db">Designs and builds new Java backend features for a Colombian</text>
+<text class="sans" x="84.0" y="159" font-size="14" fill="#d1d5db">fintech.</text>
+<circle cx="71.0" cy="184" r="2.6" fill="#7fd6ff"/>
+<text class="sans" x="84.0" y="189" font-size="14" fill="#d1d5db">Builds multi-tenant RAG engines and LLM agents with FastAPI and</text>
+<text class="sans" x="84.0" y="210" font-size="14" fill="#d1d5db">Supabase (row-level security).</text>
+<circle cx="615.0" cy="133" r="2.6" fill="#7fd6ff"/>
+<text class="sans" x="628.0" y="138" font-size="14" fill="#d1d5db">Integrates payment gateways (Stripe, Whop and others): transactions,</text>
+<text class="sans" x="628.0" y="159" font-size="14" fill="#d1d5db">idempotency, encryption of sensitive data.</text>
+<circle cx="615.0" cy="184" r="2.6" fill="#7fd6ff"/>
+<text class="sans" x="628.0" y="189" font-size="14" fill="#d1d5db">Connects products to the WhatsApp Cloud API for conversational</text>
+<text class="sans" x="628.0" y="210" font-size="14" fill="#d1d5db">flows.</text>
+<rect x="68" y="230" width="46" height="26" rx="7" fill="#262a31"/>
+<text class="mono" x="91" y="247.5" text-anchor="middle" font-size="12" fill="#c9ced6">Java</text>
+<rect x="121" y="230" width="61" height="26" rx="7" fill="#262a31"/>
+<text class="mono" x="152" y="247.5" text-anchor="middle" font-size="12" fill="#c9ced6">Python</text>
+<rect x="189" y="230" width="68" height="26" rx="7" fill="#262a31"/>
+<text class="mono" x="223" y="247.5" text-anchor="middle" font-size="12" fill="#c9ced6">FastAPI</text>
+<rect x="264" y="230" width="75" height="26" rx="7" fill="#262a31"/>
+<text class="mono" x="301" y="247.5" text-anchor="middle" font-size="12" fill="#c9ced6">Supabase</text>
+<rect x="346" y="230" width="89" height="26" rx="7" fill="#262a31"/>
+<text class="mono" x="390" y="247.5" text-anchor="middle" font-size="12" fill="#c9ced6">LLM agents</text>
+<rect x="442" y="230" width="39" height="26" rx="7" fill="#262a31"/>
+<text class="mono" x="461" y="247.5" text-anchor="middle" font-size="12" fill="#c9ced6">RAG</text>
+<rect x="488" y="230" width="61" height="26" rx="7" fill="#262a31"/>
+<text class="mono" x="518" y="247.5" text-anchor="middle" font-size="12" fill="#c9ced6">Stripe</text>
+</g>
+<g class="cd k1">
+<rect x="40" y="294" width="551" height="262" rx="16" fill="#1b1e23" stroke="#2a2e35"/>
+<rect x="40" y="316" width="4" height="218" rx="2" fill="url(#ribbon)"/>
+<text class="sans" x="68" y="336" font-size="21" font-weight="800" fill="#f3f4f6" letter-spacing="-.4">EPAM<tspan font-weight="400" fill="#8b93a0"> · CoreLogic</tspan></text>
+<text class="mono" x="68" y="360" font-size="12.5" fill="#7fd6ff" letter-spacing=".04em">Senior Software Engineer</text>
+<rect x="465" y="316" width="104" height="24" rx="12" fill="#262a31" stroke="#2a2e35"/>
+<text class="mono" x="517" y="332" text-anchor="middle" font-size="11" font-weight="700" fill="#8b93a0" letter-spacing=".12em">REAL ESTATE</text>
+<circle cx="71.0" cy="387" r="2.6" fill="#7fd6ff"/>
+<text class="sans" x="84.0" y="392" font-size="14" fill="#d1d5db">Reactive microservices on Kafka segmenting leads across ~1.5M</text>
+<text class="sans" x="84.0" y="413" font-size="14" fill="#d1d5db">U.S. properties.</text>
+<circle cx="71.0" cy="438" r="2.6" fill="#7fd6ff"/>
+<text class="sans" x="84.0" y="443" font-size="14" fill="#d1d5db">Mortgage and property module with Java/Spring and Angular.</text>
+<circle cx="71.0" cy="468" r="2.6" fill="#7fd6ff"/>
+<text class="sans" x="84.0" y="473" font-size="14" fill="#d1d5db">GraphQL APIs on AWS, event-driven architecture.</text>
+<rect x="68" y="510" width="46" height="26" rx="7" fill="#262a31"/>
+<text class="mono" x="91" y="527.5" text-anchor="middle" font-size="12" fill="#c9ced6">Java</text>
+<rect x="121" y="510" width="61" height="26" rx="7" fill="#262a31"/>
+<text class="mono" x="152" y="527.5" text-anchor="middle" font-size="12" fill="#c9ced6">Spring</text>
+<rect x="189" y="510" width="54" height="26" rx="7" fill="#262a31"/>
+<text class="mono" x="216" y="527.5" text-anchor="middle" font-size="12" fill="#c9ced6">Kafka</text>
+<rect x="250" y="510" width="68" height="26" rx="7" fill="#262a31"/>
+<text class="mono" x="283" y="527.5" text-anchor="middle" font-size="12" fill="#c9ced6">GraphQL</text>
+<rect x="324" y="510" width="68" height="26" rx="7" fill="#262a31"/>
+<text class="mono" x="358" y="527.5" text-anchor="middle" font-size="12" fill="#c9ced6">Angular</text>
+<rect x="399" y="510" width="39" height="26" rx="7" fill="#262a31"/>
+<text class="mono" x="419" y="527.5" text-anchor="middle" font-size="12" fill="#c9ced6">AWS</text>
+</g>
+<g class="cd k2">
+<rect x="609" y="294" width="551" height="262" rx="16" fill="#1b1e23" stroke="#2a2e35"/>
+<rect x="609" y="316" width="4" height="218" rx="2" fill="url(#ribbon)"/>
+<text class="sans" x="637" y="336" font-size="21" font-weight="800" fill="#f3f4f6" letter-spacing="-.4">Makers Solutions<tspan font-weight="400" fill="#8b93a0"> · Banking</tspan></text>
+<text class="mono" x="637" y="360" font-size="12.5" fill="#7fd6ff" letter-spacing=".04em">Tech Lead → Software Architect</text>
+<rect x="1065" y="316" width="73" height="24" rx="12" fill="#262a31" stroke="#2a2e35"/>
+<text class="mono" x="1101" y="332" text-anchor="middle" font-size="11" font-weight="700" fill="#8b93a0" letter-spacing=".12em">FINTECH</text>
+<circle cx="640.0" cy="387" r="2.6" fill="#7fd6ff"/>
+<text class="sans" x="653.0" y="392" font-size="14" fill="#d1d5db">Investment core for Protección: derivatives valuation and</text>
+<text class="sans" x="653.0" y="413" font-size="14" fill="#d1d5db">regulatory reporting to the Financial Superintendence.</text>
+<circle cx="640.0" cy="438" r="2.6" fill="#7fd6ff"/>
+<text class="sans" x="653.0" y="443" font-size="14" fill="#d1d5db">Bancolombia: defined caching strategies; system design, batch</text>
+<text class="sans" x="653.0" y="464" font-size="14" fill="#d1d5db">processing, PR review, team leadership.</text>
+<rect x="637" y="510" width="46" height="26" rx="7" fill="#262a31"/>
+<text class="mono" x="660" y="527.5" text-anchor="middle" font-size="12" fill="#c9ced6">Java</text>
+<rect x="690" y="510" width="110" height="26" rx="7" fill="#262a31"/>
+<text class="mono" x="746" y="527.5" text-anchor="middle" font-size="12" fill="#c9ced6">System design</text>
+<rect x="808" y="510" width="54" height="26" rx="7" fill="#262a31"/>
+<text class="mono" x="834" y="527.5" text-anchor="middle" font-size="12" fill="#c9ced6">Batch</text>
+<rect x="868" y="510" width="68" height="26" rx="7" fill="#262a31"/>
+<text class="mono" x="902" y="527.5" text-anchor="middle" font-size="12" fill="#c9ced6">Caching</text>
+<rect x="943" y="510" width="89" height="26" rx="7" fill="#262a31"/>
+<text class="mono" x="987" y="527.5" text-anchor="middle" font-size="12" fill="#c9ced6">Leadership</text>
+</g>
+<g class="cd k3">
+<rect x="40" y="574" width="551" height="222" rx="16" fill="#1b1e23" stroke="#2a2e35"/>
+<rect x="40" y="596" width="4" height="178" rx="2" fill="url(#ribbon)"/>
+<text class="sans" x="68" y="616" font-size="21" font-weight="800" fill="#f3f4f6" letter-spacing="-.4">Unosquare<tspan font-weight="400" fill="#8b93a0"> · Healthcare</tspan></text>
+<text class="mono" x="68" y="640" font-size="12.5" fill="#7fd6ff" letter-spacing=".04em">Senior Java Developer</text>
+<rect x="473" y="596" width="96" height="24" rx="12" fill="#262a31" stroke="#2a2e35"/>
+<text class="mono" x="521" y="612" text-anchor="middle" font-size="11" font-weight="700" fill="#8b93a0" letter-spacing=".12em">HEALTHCARE</text>
+<circle cx="71.0" cy="667" r="2.6" fill="#7fd6ff"/>
+<text class="sans" x="84.0" y="672" font-size="14" fill="#d1d5db">WebRTC telemedicine with Twilio, up to 50 participants per</text>
+<text class="sans" x="84.0" y="693" font-size="14" fill="#d1d5db">session.</text>
+<circle cx="71.0" cy="718" r="2.6" fill="#7fd6ff"/>
+<text class="sans" x="84.0" y="723" font-size="14" fill="#d1d5db">Healthcare microservices and GraphQL services.</text>
+<rect x="68" y="750" width="46" height="26" rx="7" fill="#262a31"/>
+<text class="mono" x="91" y="767.5" text-anchor="middle" font-size="12" fill="#c9ced6">Java</text>
+<rect x="121" y="750" width="61" height="26" rx="7" fill="#262a31"/>
+<text class="mono" x="152" y="767.5" text-anchor="middle" font-size="12" fill="#c9ced6">WebRTC</text>
+<rect x="189" y="750" width="61" height="26" rx="7" fill="#262a31"/>
+<text class="mono" x="219" y="767.5" text-anchor="middle" font-size="12" fill="#c9ced6">Twilio</text>
+<rect x="257" y="750" width="68" height="26" rx="7" fill="#262a31"/>
+<text class="mono" x="290" y="767.5" text-anchor="middle" font-size="12" fill="#c9ced6">GraphQL</text>
+<rect x="331" y="750" width="110" height="26" rx="7" fill="#262a31"/>
+<text class="mono" x="386" y="767.5" text-anchor="middle" font-size="12" fill="#c9ced6">Microservices</text>
+</g>
+<g class="cd k4">
+<rect x="609" y="574" width="551" height="222" rx="16" fill="#1b1e23" stroke="#2a2e35"/>
+<rect x="609" y="596" width="4" height="178" rx="2" fill="url(#ribbon)"/>
+<text class="sans" x="637" y="616" font-size="21" font-weight="800" fill="#f3f4f6" letter-spacing="-.4">Apple<tspan font-weight="400" fill="#8b93a0"> · FNB Ads</tspan></text>
+<text class="mono" x="637" y="640" font-size="12.5" fill="#7fd6ff" letter-spacing=".04em">AWS migration work</text>
+<rect x="1065" y="596" width="73" height="24" rx="12" fill="#262a31" stroke="#2a2e35"/>
+<text class="mono" x="1101" y="612" text-anchor="middle" font-size="11" font-weight="700" fill="#8b93a0" letter-spacing=".12em">AD TECH</text>
+<circle cx="640.0" cy="667" r="2.6" fill="#7fd6ff"/>
+<text class="sans" x="653.0" y="672" font-size="14" fill="#d1d5db">Migrations to AWS and related cloud work for the FNB Ads team.</text>
+<rect x="637" y="750" width="39" height="26" rx="7" fill="#262a31"/>
+<text class="mono" x="657" y="767.5" text-anchor="middle" font-size="12" fill="#c9ced6">AWS</text>
+<rect x="683" y="750" width="124" height="26" rx="7" fill="#262a31"/>
+<text class="mono" x="746" y="767.5" text-anchor="middle" font-size="12" fill="#c9ced6">Cloud migration</text>
+</g>
+</svg>
